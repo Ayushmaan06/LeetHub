@@ -9,8 +9,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0633-sum-of-square-numbers) |
 # Binary Search
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0633-sum-of-square-numbers) |
+# Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0567-permutation-in-string) |
+# String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0567-permutation-in-string) |
+# Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0567-permutation-in-string) |
