@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0216-combination-sum-iii) |
+| [0377-combination-sum-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/0377-combination-sum-iv) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
 # Backtracking
 |  |
@@ -59,3 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0090-subsets-ii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0377-combination-sum-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/0377-combination-sum-iv) |
