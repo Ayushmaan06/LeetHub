@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0216-combination-sum-iii) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
 # Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0216-combination-sum-iii) |
 # Greedy
 |  |
 | ------- |
