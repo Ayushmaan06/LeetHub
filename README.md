@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushmaan06/LeetHub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/0377-combination-sum-iv) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushmaan06/LeetHub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Backtracking
 |  |
 | ------- |
