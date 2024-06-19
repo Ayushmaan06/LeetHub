@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0567-permutation-in-string) |
 # String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Ayushmaan06/LeetHub/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ayushmaan06/LeetHub/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0567-permutation-in-string) |
 # Sliding Window
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Ayushmaan06/LeetHub/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Ayushmaan06/LeetHub/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/0377-combination-sum-iv) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
@@ -73,8 +76,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Ayushmaan06/LeetHub/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
 | [0377-combination-sum-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/0377-combination-sum-iv) |
 # Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ayushmaan06/LeetHub/tree/master/0079-word-search) |
+# Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
+# Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
