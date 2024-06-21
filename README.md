@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ayushmaan06/LeetHub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ayushmaan06/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 # Rolling Hash
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ayushmaan06/LeetHub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ayushmaan06/LeetHub/tree/master/0225-implement-stack-using-queues) |
 # Queue
 |  |
