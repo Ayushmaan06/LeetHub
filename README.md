@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/0377-combination-sum-iv) |
 | [0496-next-greater-element-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/Ayushmaan06/LeetHub/tree/master/1138-grumpy-bookstore-owner) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushmaan06/LeetHub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ayushmaan06/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 # Rolling Hash
 |  |
@@ -149,3 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0503-next-greater-element-ii) |
+# Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
