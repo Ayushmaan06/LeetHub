@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Ayushmaan06/LeetHub/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
+| [0496-next-greater-element-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0567-permutation-in-string) |
 # String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/0377-combination-sum-iv) |
+| [0496-next-greater-element-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/Ayushmaan06/LeetHub/tree/master/1138-grumpy-bookstore-owner) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushmaan06/LeetHub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Ayushmaan06/LeetHub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ayushmaan06/LeetHub/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 # Rolling Hash
 |  |
@@ -134,3 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ayushmaan06/LeetHub/tree/master/0225-implement-stack-using-queues) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0496-next-greater-element-i) |
