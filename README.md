@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0282-expression-add-operators](https://github.com/Ayushmaan06/LeetHub/tree/master/0282-expression-add-operators) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 # Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0567-permutation-in-string) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0567-permutation-in-string) |
 | [1138-grumpy-bookstore-owner](https://github.com/Ayushmaan06/LeetHub/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 # Array
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/Ayushmaan06/LeetHub/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushmaan06/LeetHub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ayushmaan06/LeetHub/tree/master/1675-magnetic-force-between-two-balls) |
 # Backtracking
