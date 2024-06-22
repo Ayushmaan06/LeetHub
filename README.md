@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Ayushmaan06/LeetHub/tree/master/0402-remove-k-digits) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Ayushmaan06/LeetHub/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 # Sorting
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/Ayushmaan06/LeetHub/tree/master/0402-remove-k-digits) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Ayushmaan06/LeetHub/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 # Hash Function
 |  |
 | ------- |
