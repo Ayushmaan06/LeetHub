@@ -209,3 +209,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ayushmaan06/LeetHub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
+# Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
+# Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
