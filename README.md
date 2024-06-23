@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ayushmaan06/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
 | [0377-combination-sum-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0392-is-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushmaan06/LeetHub/tree/master/0943-sum-of-subarray-minimums) |
 # Matrix
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
+| [0392-is-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ayushmaan06/LeetHub/tree/master/0402-remove-k-digits) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Ayushmaan06/LeetHub/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 # Hash Function
