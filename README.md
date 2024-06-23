@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Ayushmaan06/LeetHub/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmaan06/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Ayushmaan06/LeetHub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ayushmaan06/LeetHub/tree/master/0225-implement-stack-using-queues) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ayushmaan06/LeetHub/tree/master/0071-simplify-path) |
 | [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ayushmaan06/LeetHub/tree/master/0402-remove-k-digits) |
