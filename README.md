@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushmaan06/LeetHub/tree/master/0943-sum-of-subarray-minimums) |
+| [1036-rotting-oranges](https://github.com/Ayushmaan06/LeetHub/tree/master/1036-rotting-oranges) |
 | [1138-grumpy-bookstore-owner](https://github.com/Ayushmaan06/LeetHub/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ayushmaan06/LeetHub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ayushmaan06/LeetHub/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Ayushmaan06/LeetHub/tree/master/0079-word-search) |
+| [1036-rotting-oranges](https://github.com/Ayushmaan06/LeetHub/tree/master/1036-rotting-oranges) |
 # Trie
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Ayushmaan06/LeetHub/tree/master/1036-rotting-oranges) |
 # Union Find
 |  |
 | ------- |
