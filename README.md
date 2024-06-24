@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushmaan06/LeetHub/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Ayushmaan06/LeetHub/tree/master/1036-rotting-oranges) |
 | [1138-grumpy-bookstore-owner](https://github.com/Ayushmaan06/LeetHub/tree/master/1138-grumpy-bookstore-owner) |
+| [1184-car-pooling](https://github.com/Ayushmaan06/LeetHub/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Ayushmaan06/LeetHub/tree/master/1206-corporate-flight-bookings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ayushmaan06/LeetHub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
+| [1184-car-pooling](https://github.com/Ayushmaan06/LeetHub/tree/master/1184-car-pooling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ayushmaan06/LeetHub/tree/master/1675-magnetic-force-between-two-balls) |
 # Bit Manipulation
 |  |
@@ -196,10 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
+| [1184-car-pooling](https://github.com/Ayushmaan06/LeetHub/tree/master/1184-car-pooling) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayushmaan06/LeetHub/tree/master/0239-sliding-window-maximum) |
+| [1184-car-pooling](https://github.com/Ayushmaan06/LeetHub/tree/master/1184-car-pooling) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ayushmaan06/LeetHub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Monotonic Queue
 |  |
@@ -244,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Prefix Sum
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/Ayushmaan06/LeetHub/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Ayushmaan06/LeetHub/tree/master/1206-corporate-flight-bookings) |
