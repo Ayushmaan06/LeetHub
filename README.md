@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushmaan06/LeetHub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ayushmaan06/LeetHub/tree/master/1675-magnetic-force-between-two-balls) |
 | [2465-shifting-letters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2465-shifting-letters-ii) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Ayushmaan06/LeetHub/tree/master/2536-determine-if-two-events-have-conflict) |
 # Backtracking
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ayushmaan06/LeetHub/tree/master/0402-remove-k-digits) |
 | [2465-shifting-letters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2465-shifting-letters-ii) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Ayushmaan06/LeetHub/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Ayushmaan06/LeetHub/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 # Hash Function
 |  |
