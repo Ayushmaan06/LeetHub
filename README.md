@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushmaan06/LeetHub/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Ayushmaan06/LeetHub/tree/master/1036-rotting-oranges) |
 | [1138-grumpy-bookstore-owner](https://github.com/Ayushmaan06/LeetHub/tree/master/1138-grumpy-bookstore-owner) |
+| [1206-corporate-flight-bookings](https://github.com/Ayushmaan06/LeetHub/tree/master/1206-corporate-flight-bookings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ayushmaan06/LeetHub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushmaan06/LeetHub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -240,3 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
+# Prefix Sum
+|  |
+| ------- |
+| [1206-corporate-flight-bookings](https://github.com/Ayushmaan06/LeetHub/tree/master/1206-corporate-flight-bookings) |
