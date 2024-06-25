@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ayushmaan06/LeetHub/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
@@ -130,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
 | [0377-combination-sum-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushmaan06/LeetHub/tree/master/0943-sum-of-subarray-minimums) |
 # Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ayushmaan06/LeetHub/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Ayushmaan06/LeetHub/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ayushmaan06/LeetHub/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ayushmaan06/LeetHub/tree/master/1036-rotting-oranges) |
 # Trie
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ayushmaan06/LeetHub/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ayushmaan06/LeetHub/tree/master/1036-rotting-oranges) |
