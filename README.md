@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushmaan06/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 # Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Ayushmaan06/LeetHub/tree/master/1675-magnetic-force-between-two-balls) |
 | [2465-shifting-letters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2465-shifting-letters-ii) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Ayushmaan06/LeetHub/tree/master/2536-determine-if-two-events-have-conflict) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushmaan06/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 # Backtracking
 |  |
 | ------- |
