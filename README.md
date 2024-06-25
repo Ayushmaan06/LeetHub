@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ayushmaan06/LeetHub/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmaan06/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/Ayushmaan06/LeetHub/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Ayushmaan06/LeetHub/tree/master/0239-sliding-window-maximum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ayushmaan06/LeetHub/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Ayushmaan06/LeetHub/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Ayushmaan06/LeetHub/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ayushmaan06/LeetHub/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ayushmaan06/LeetHub/tree/master/1036-rotting-oranges) |
@@ -245,12 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Ayushmaan06/LeetHub/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ayushmaan06/LeetHub/tree/master/0733-flood-fill) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Ayushmaan06/LeetHub/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ayushmaan06/LeetHub/tree/master/0733-flood-fill) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Ayushmaan06/LeetHub/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
 # Graph
 |  |
