@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ayushmaan06/LeetHub/tree/master/0733-flood-fill) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -264,3 +265,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Ayushmaan06/LeetHub/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Ayushmaan06/LeetHub/tree/master/1206-corporate-flight-bookings) |
 | [2465-shifting-letters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2465-shifting-letters-ii) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
