@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Ayushmaan06/LeetHub/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Ayushmaan06/LeetHub/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Ayushmaan06/LeetHub/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0496-next-greater-element-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ayushmaan06/LeetHub/tree/master/0071-simplify-path) |
+| [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ayushmaan06/LeetHub/tree/master/0402-remove-k-digits) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ayushmaan06/LeetHub/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
