@@ -325,3 +325,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ayushmaan06/LeetHub/tree/master/0207-course-schedule) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ayushmaan06/LeetHub/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ayushmaan06/LeetHub/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ayushmaan06/LeetHub/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ayushmaan06/LeetHub/tree/master/0207-course-schedule) |
+<!---LeetCode Topics End-->
