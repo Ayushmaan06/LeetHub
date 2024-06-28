@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Ayushmaan06/LeetHub/tree/master/2379-maximum-total-importance-of-roads) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Ayushmaan06/LeetHub/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 # Sorting
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-most-profit-assigning-work) |
 | [1184-car-pooling](https://github.com/Ayushmaan06/LeetHub/tree/master/1184-car-pooling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ayushmaan06/LeetHub/tree/master/1675-magnetic-force-between-two-balls) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Ayushmaan06/LeetHub/tree/master/2379-maximum-total-importance-of-roads) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ayushmaan06/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [1184-car-pooling](https://github.com/Ayushmaan06/LeetHub/tree/master/1184-car-pooling) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ayushmaan06/LeetHub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Ayushmaan06/LeetHub/tree/master/2379-maximum-total-importance-of-roads) |
 # Monotonic Queue
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ayushmaan06/LeetHub/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
 | [1916-find-center-of-star-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Ayushmaan06/LeetHub/tree/master/2379-maximum-total-importance-of-roads) |
 # Prefix Sum
 |  |
 | ------- |
