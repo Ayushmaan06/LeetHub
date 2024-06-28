@@ -1,37 +1,34 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> graph(numCourses);
-        vector<bool> visited(numCourses, false), recStack(numCourses, false);
-
-        // Building the graph
-        for (const auto& p : prerequisites) {
+    bool canFinish(int n, vector<vector<int>>& pre) {
+        vector<int> ind(n,0);
+        vector<int> ans;
+        vector<vector<int>> graph(n);
+        for (const auto& p : pre) {
             graph[p[1]].push_back(p[0]);
         }
-
-        // Check for cycles in the graph
-        for (int i = 0; i < numCourses; i++) {
-            if (!visited[i]) {
-                if (isCyclic(i, graph, visited, recStack)) return false;
+        for(int i = 0 ; i < pre.size() ; i++){
+            ind[pre[i][0]]++;
+        }
+        queue<int> q;
+        for(int i = 0 ; i < n ; i++){
+            if(ind[i]==0){
+                q.push(i);
             }
         }
-        return true;
-    }
-
-private:
-    bool isCyclic(int node, const vector<vector<int>>& graph, vector<bool>& visited, vector<bool>& recStack) {
-        visited[node] = true;
-        recStack[node] = true;
-
-        for (int neighbour : graph[node]) {
-            if (!visited[neighbour]) {
-                if (isCyclic(neighbour, graph, visited, recStack)) return true;
-            } else if (recStack[neighbour]) {
-                return true; // Found a cycle
+        while (!q.empty()) {
+            int k = q.front();
+            q.pop();
+            ans.push_back(k); // Add to result
+            // Decrease in-degree of adjacent vertices
+            for (int i = 0; i < graph[k].size(); i++) {
+                ind[graph[k][i]]--;
+                if (ind[graph[k][i]] == 0) {
+                    q.push(graph[k][i]);
+                }
             }
         }
+        return ans.size()==n;
 
-        recStack[node] = false; // Remove the node from recursion stack before returning
-        return false;
     }
 };
