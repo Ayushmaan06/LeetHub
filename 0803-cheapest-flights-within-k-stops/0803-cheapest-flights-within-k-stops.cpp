@@ -1,51 +1,39 @@
 class Solution {
 public:
-    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
+    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int K) {
         vector<vector<pair<int, int>>> graph(n);
-        for (const auto& flight : flights) {
-            graph[flight[0]].emplace_back(flight[1], flight[2]);
+        for (const auto& f : flights) {
+            graph[f[0]].emplace_back(f[1], f[2]);
         }
 
-        // Priority queue to store (cost, node, stops)
-        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<>> pq;
+        // Priority queue to store {cost, node, stops}
+        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<>> pq;
+        pq.emplace(0, src, 0);
+
         vector<int> dist(n, INT_MAX);
-        vector<int> stops(n, INT_MAX);
         dist[src] = 0;
-        stops[src] = 0;
-        pq.emplace(0, make_pair(src, 0));
 
-        vector<int> memo(n);
-        for (int i = 0; i < memo.size(); i++) {
-            memo[i] = i;
-        }
+        // Use memo to track the number of stops to each node
+        vector<int> memo(n, INT_MAX);
+        memo[src] = 0;
 
         while (!pq.empty()) {
-            auto [d, node_stops] = pq.top();
-            int node = node_stops.first;
-            int current_stops = node_stops.second;
+            auto [cost, node, stops] = pq.top();
             pq.pop();
 
-            if (node == dst) return d;
-            if (current_stops > k) continue;
+            if (node == dst) return cost;
+            if (stops > K) continue;
 
-            for (const auto& [next_node, price] : graph[node]) {
-                int new_cost = d + price;
-                if (new_cost < dist[next_node] || current_stops + 1 < stops[next_node]) {
-                    dist[next_node] = new_cost;
-                    stops[next_node] = current_stops + 1;
-                    pq.emplace(new_cost, make_pair(next_node, current_stops + 1));
-                    memo[next_node] = node;
+            for (const auto& [next, price] : graph[node]) {
+                // Only consider this path if it doesn't exceed the minimum distance or allows fewer stops
+                if (cost + price < dist[next] || stops < memo[next]) {
+                    dist[next] = cost + price;
+                    pq.emplace(dist[next], next, stops + 1);
+                    memo[next] = stops; // Update the number of stops to reach 'next'
                 }
             }
         }
 
-        int i = dst, c = 0;
-        while (memo[i] != i) {
-            c++;
-            i = memo[i];
-        }
-
-        if (c <= k && dist[dst] != INT_MAX) return dist[dst];
-        return -1;
+        return dist[dst] == INT_MAX ? -1 : dist[dst];
     }
 };
