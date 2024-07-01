@@ -376,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/Ayushmaan06/LeetHub/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
