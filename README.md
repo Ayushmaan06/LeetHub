@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1293-three-consecutive-odds](https://github.com/Ayushmaan06/LeetHub/tree/master/1293-three-consecutive-odds) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -416,4 +419,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Ayushmaan06/LeetHub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
