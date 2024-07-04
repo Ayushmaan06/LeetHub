@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ayushmaan06/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ayushmaan06/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Ayushmaan06/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ayushmaan06/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ayushmaan06/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ayushmaan06/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ayushmaan06/LeetHub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ayushmaan06/LeetHub/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ayushmaan06/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ayushmaan06/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ayushmaan06/LeetHub/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 ## Hash Table
