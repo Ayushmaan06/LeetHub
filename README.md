@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ayushmaan06/LeetHub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Ayushmaan06/LeetHub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ayushmaan06/LeetHub/tree/master/0820-find-eventual-safe-states) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Ayushmaan06/LeetHub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Ayushmaan06/LeetHub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ayushmaan06/LeetHub/tree/master/0820-find-eventual-safe-states) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ayushmaan06/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ayushmaan06/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ayushmaan06/LeetHub/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -388,12 +391,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ayushmaan06/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
 | ------- |
@@ -402,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1293-three-consecutive-odds](https://github.com/Ayushmaan06/LeetHub/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ayushmaan06/LeetHub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -443,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ayushmaan06/LeetHub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
 |  |
