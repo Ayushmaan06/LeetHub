@@ -6,6 +6,10 @@ using namespace std;
 class Solution {
 public:
     int swimInWater(vector<vector<int>>& grid) {
+        
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
         int n = grid.size();
         // Define a min-heap priority queue where the pair is <height, <row, col>>
         priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
