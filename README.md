@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ayushmaan06/LeetHub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ayushmaan06/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Ayushmaan06/LeetHub/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Ayushmaan06/LeetHub/tree/master/2645-pass-the-pillow) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -515,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Ayushmaan06/LeetHub/tree/master/1720-crawler-log-folder) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
