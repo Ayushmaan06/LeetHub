@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ayushmaan06/LeetHub/tree/master/1720-crawler-log-folder) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ayushmaan06/LeetHub/tree/master/1777-determine-if-two-strings-are-close) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ayushmaan06/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ayushmaan06/LeetHub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ayushmaan06/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ayushmaan06/LeetHub/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ayushmaan06/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Memoization
 |  |
 | ------- |
