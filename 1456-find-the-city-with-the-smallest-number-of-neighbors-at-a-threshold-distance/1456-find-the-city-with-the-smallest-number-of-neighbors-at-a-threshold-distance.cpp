@@ -2,7 +2,7 @@ class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
         vector<vector<int>> matrix(n, vector<int>(n, 1e7)); // Use a large number to represent infinity
-
+        std::ios::sync_with_stdio(false);std::cin.tie(NULL);std::cout.tie(NULL);
         // Initialize the adjacency matrix
         for (const auto& edge : edges) {
             matrix[edge[0]][edge[1]] = edge[2];
