@@ -1,6 +1,9 @@
 class Solution {
 public:
     int numTeams(vector<int>& a) {
+        std::ios::sync_with_stdio(false);
+        std::cin.tie(NULL);
+        std::cout.tie(NULL);
         int n = a.size(), c=0;
         for(int i = 0 ; i < n ; i ++){
             int sl=0 , lr = 0,ll,sr;
