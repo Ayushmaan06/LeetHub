@@ -1,34 +1,28 @@
 class Solution {
 public:
-    int minimumPushes(string s) {
-        vector<pair<int, char>> vp;
-        unordered_map<char, int> m;
-        for (char &c : s) {
-            m[c]++;
+    void print(auto& c){
+        for(int x: c) cout<<x<<", "; 
+        cout<<endl;
+    }
+    int minimumPushes(string& word) {
+        int freq[26]={0};
+        for(char c: word) 
+            freq[c-'a']++;
+        sort(freq, freq+26, greater<int>());
+
+        int sz=0, push=1, ans=0;
+        for(; sz<26 && freq[sz]!=0; sz++){
+            if (sz>=8 && sz%8==0) push++;
+            ans+=freq[sz]*push;    
         }
-        if (m.size() <= 8) return s.length();
-
-        for (auto k : m) {
-            vp.push_back({k.second, k.first});
-        }
-
-        sort(vp.begin(), vp.end(), [](pair<int, char> a, pair<int, char> b) { return a.first > b.first; });
-
-        int push = 0;
-        for (int i = 0; i < vp.size(); i++) {
-            if (i < 8) {
-                push += vp[i].first;
-            } else if (i >= 8 && i < 16) {
-                push += 2 * vp[i].first;
-            } 
-            else if(i>=16 && i<24){
-                push += 3 * vp[i].first;
-            }
-            else {
-                push += 4 * vp[i].first;
-            }
-        }
-
-        return push;
+        return ans;
     }
 };
+
+auto init = []()
+{ 
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
