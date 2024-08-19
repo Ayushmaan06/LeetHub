@@ -1,25 +1,31 @@
 class Solution {
 public:
-    vector<int> precomputeMinOperations(int maxN) {
-        vector<int> dp(maxN + 1, INT_MAX);
-        dp[1] = 0; // Base case: 0 operations needed to get 1 'A'
+    std::vector<int> primeFactors(int n) {
+        std::vector<int> factors;
 
-        for (int i = 2; i <= maxN; ++i) {
-            for (int j = 1; j * j <= i; ++j) {
-                if (i % j == 0) {
-                    dp[i] = min(dp[i], dp[j] + i / j);
-                    if (j != 1) {
-                        dp[i] = min(dp[i], dp[i / j] + j);
-                    }
-                }
+        // Divide n by 2 until it is odd
+        while (n % 2 == 0) {
+            factors.push_back(2);
+            n /= 2;
+        }
+
+        // Check for odd factors from 3 to sqrt(n)
+        for (int i = 3; i <= std::sqrt(n); i += 2) {
+            while (n % i == 0) {
+                factors.push_back(i);
+                n /= i;
             }
         }
 
-        return dp;
-    }
+        // If n is still greater than 2, it must be a prime number
+        if (n > 2) {
+            factors.push_back(n);
+        }
 
+        return factors;
+    }
     int minSteps(int n) {
-        vector<int> dp = precomputeMinOperations(n);
-        return dp[n];
+        vector<int> pf = primeFactors(n);
+        return accumulate(pf.begin() , pf.end() , 0); 
     }
 };
