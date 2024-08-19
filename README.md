@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0494-target-sum) |
+| [0650-2-keys-keyboard](https://github.com/Ayushmaan06/LeetHub/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Ayushmaan06/LeetHub/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Ayushmaan06/LeetHub/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Ayushmaan06/LeetHub/tree/master/1642-water-bottles) |
