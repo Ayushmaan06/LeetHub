@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Ayushmaan06/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ayushmaan06/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/Ayushmaan06/LeetHub/tree/master/1300-critical-connections-in-a-network) |
+| [1325-path-with-maximum-probability](https://github.com/Ayushmaan06/LeetHub/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ayushmaan06/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ayushmaan06/LeetHub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Ayushmaan06/LeetHub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Ayushmaan06/LeetHub/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/Ayushmaan06/LeetHub/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Ayushmaan06/LeetHub/tree/master/1511-count-number-of-teams) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/Ayushmaan06/LeetHub/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Ayushmaan06/LeetHub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Ayushmaan06/LeetHub/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ayushmaan06/LeetHub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ayushmaan06/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ayushmaan06/LeetHub/tree/master/2171-second-minimum-time-to-reach-destination) |
