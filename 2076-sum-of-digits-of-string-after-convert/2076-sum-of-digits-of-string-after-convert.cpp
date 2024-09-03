@@ -1,21 +1,28 @@
 class Solution {
 public:
     int getLucky(string s, int k) {
-        // Convert each character in the string to its corresponding numeric value
+        
         string number = "";
         for (char x : s) {
             number += to_string(x - 'a' + 1);
         }
         
-        // Perform the transformation `k` times
+
         while (k > 0) {
             int temp = 0;
             for (char x : number) {
-                temp += x - '0';  // Sum the digits of the current number
+                temp += x - '0';  
             }
-            number = to_string(temp);  // Convert the sum back to a string
+            number = to_string(temp);  
             k--;
         }
-        return stoi(number);  // Return the final result as an integer
+        return stoi(number);  
     }
+
 };
+static const int kds = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 0;
+}();
