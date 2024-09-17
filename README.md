@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0807-custom-sort-string) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Ayushmaan06/LeetHub/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Ayushmaan06/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Ayushmaan06/LeetHub/tree/master/0926-find-and-replace-pattern) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ayushmaan06/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushmaan06/LeetHub/tree/master/0999-regions-cut-by-slashes) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Ayushmaan06/LeetHub/tree/master/0726-number-of-atoms) |
 | [0807-custom-sort-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0807-custom-sort-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Ayushmaan06/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Ayushmaan06/LeetHub/tree/master/0926-find-and-replace-pattern) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushmaan06/LeetHub/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Ayushmaan06/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ayushmaan06/LeetHub/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
