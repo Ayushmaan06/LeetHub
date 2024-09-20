@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ayushmaan06/LeetHub/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0564-find-the-closest-palindrome) |
@@ -815,4 +816,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ayushmaan06/LeetHub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
