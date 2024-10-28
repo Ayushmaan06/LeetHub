@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ayushmaan06/LeetHub/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Ayushmaan06/LeetHub/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushmaan06/LeetHub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Ayushmaan06/LeetHub/tree/master/2502-sort-the-people) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ayushmaan06/LeetHub/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushmaan06/LeetHub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Ayushmaan06/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2755-extra-characters-in-a-string) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushmaan06/LeetHub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushmaan06/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2586-longest-square-streak-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ayushmaan06/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushmaan06/LeetHub/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ayushmaan06/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2755-extra-characters-in-a-string) |
 ## Shortest Path
 |  |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushmaan06/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Ayushmaan06/LeetHub/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushmaan06/LeetHub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/Ayushmaan06/LeetHub/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
