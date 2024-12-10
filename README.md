@@ -1007,4 +1007,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Ayushmaan06/LeetHub/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
