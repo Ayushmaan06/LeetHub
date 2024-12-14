@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Ayushmaan06/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Ayushmaan06/LeetHub/tree/master/2846-robot-collisions) |
+| [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ayushmaan06/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/Ayushmaan06/LeetHub/tree/master/2803-modify-graph-edge-weights) |
+| [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Ayushmaan06/LeetHub/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -866,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0954-maximum-sum-circular-subarray) |
+| [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -920,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayushmaan06/LeetHub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Ayushmaan06/LeetHub/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
@@ -1007,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
