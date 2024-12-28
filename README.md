@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0624-maximum-distance-in-arrays) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushmaan06/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0729-my-calendar-i) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Ayushmaan06/LeetHub/tree/master/0650-2-keys-keyboard) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
