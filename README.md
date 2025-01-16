@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushmaan06/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Ayushmaan06/LeetHub/tree/master/2502-sort-the-people) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ayushmaan06/LeetHub/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ayushmaan06/LeetHub/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayushmaan06/LeetHub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushmaan06/LeetHub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ayushmaan06/LeetHub/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/Ayushmaan06/LeetHub/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ayushmaan06/LeetHub/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/Ayushmaan06/LeetHub/tree/master/3394-minimum-array-end) |
@@ -1137,4 +1139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-rearrange-products-table](https://github.com/Ayushmaan06/LeetHub/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/Ayushmaan06/LeetHub/tree/master/2024-calculate-special-bonus) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ayushmaan06/LeetHub/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ayushmaan06/LeetHub/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
