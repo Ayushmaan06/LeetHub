@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ayushmaan06/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Ayushmaan06/LeetHub/tree/master/2300-construct-string-with-repeat-limit) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Ayushmaan06/LeetHub/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Ayushmaan06/LeetHub/tree/master/1160-letter-tile-possibilities) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
 |  |
@@ -854,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushmaan06/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Ayushmaan06/LeetHub/tree/master/2300-construct-string-with-repeat-limit) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushmaan06/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Ayushmaan06/LeetHub/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -982,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayushmaan06/LeetHub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushmaan06/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2846-robot-collisions](https://github.com/Ayushmaan06/LeetHub/tree/master/2846-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ayushmaan06/LeetHub/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Memoization
