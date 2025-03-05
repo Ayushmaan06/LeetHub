@@ -1,10 +1,9 @@
 class Solution {
 public:
     long long coloredCells(int n) {
-        if(n==1)return n;
-        if(n==2) return 5;
-        long long x = 4*(n-1);
-        x+=coloredCells(n-1);
-        return x;
+        if(n==1)return 1;
+        long long x = n-1;
+        x=x*(4+4*x)/2;
+        return ++x;
     }
 };
