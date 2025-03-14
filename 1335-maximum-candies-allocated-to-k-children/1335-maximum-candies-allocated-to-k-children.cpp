@@ -3,7 +3,7 @@ public:
     bool isP(int m, long long k, vector<int>& vv) {
         long long j = 0;
         for(int v : vv) {
-            j += v / m;  // Ensure division is safe
+            j += v / m; 
         }
         return j >= k;
     }
