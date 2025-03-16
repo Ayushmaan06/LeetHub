@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxSum(vector<int>& nums) {
         int sum = 0;
-        set<int> st;
+        unordered_set<int> st;
         int mxNeg = INT_MIN;
         for (int i = 0; i < nums.size(); i++) {
             if (nums[i] > 0)
