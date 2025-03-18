@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Ayushmaan06/LeetHub/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0494-target-sum) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushmaan06/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0729-my-calendar-i) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushmaan06/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushmaan06/LeetHub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1202,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Ayushmaan06/LeetHub/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushmaan06/LeetHub/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
