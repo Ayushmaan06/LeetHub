@@ -1,40 +1,53 @@
+static auto init = []() {
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  return nullptr;
+}();
+
+constexpr unsigned int max_weight = (1 << bit_width(100'000u)) - 1u;
+
+struct DisjointSet {
+  DisjointSet* parent = this;
+  unsigned int weight = max_weight;
+};
+
+DisjointSet& find(DisjointSet& x) {
+  auto px = &x;
+  while (px != px->parent) {
+    tie(px, px->parent) = make_tuple(px->parent, px->parent->parent);
+  }
+  return *px;
+}
+
+void unify(DisjointSet& x, DisjointSet& y, unsigned int weight) {
+  auto px = &find(x);
+  auto py = &find(y);
+  if (px == py) {
+    if (px->weight) px->weight &= weight;
+    return;
+  }
+  if (py->weight < px->weight) swap(px, py);
+  if (px->weight) px->weight &= py->weight & weight;
+  py->parent = px;
+}
+
 class Solution {
 public:
-    vector<int> minimumCost(int n, vector<vector<int>>& edges, vector<vector<int>>& query) {
-        vector<int> parent(n), min_path_cost(n, -1);
-        iota(parent.begin(), parent.end(), 0);
-
-        function<int(int)> find_root = [&](int node) {
-            if (parent[node] != node) {
-                parent[node] = find_root(parent[node]);
-            }
-            return parent[node];
-        };
-
-        for (auto& edge : edges) {
-            int source = edge[0], target = edge[1], weight = edge[2];
-            int source_root = find_root(source);
-            int target_root = find_root(target);
-
-            min_path_cost[target_root] &= weight;
-
-            if (source_root != target_root) {
-                min_path_cost[target_root] &= min_path_cost[source_root];
-                parent[source_root] = target_root;
-            }
-        }
-
-        vector<int> result;
-        for (auto& q : query) {
-            int start = q[0], end = q[1];
-            if (start == end) {
-                result.push_back(0);
-            } else if (find_root(start) != find_root(end)) {
-                result.push_back(-1);
-            } else {
-                result.push_back(min_path_cost[find_root(start)]);
-            }
-        }
-        return result;
+  vector<int> minimumCost(int n, const vector<vector<int>>& edges, const vector<vector<int>>& query) {
+    auto forest = vector<DisjointSet>(n);
+    for (auto& edge : edges) {
+      auto [u, v, w] = make_tuple(edge[0], edge[1], edge[2]);
+      unify(find(forest[u]), find(forest[v]), w);
     }
+
+    auto ans = vector<int>{};
+    ans.reserve(size(query));
+    for (auto& q : query) {
+      auto [u, v] = make_pair(q[0], q[1]);
+      const auto& node_u = find(forest[u]);
+      const auto& node_v = find(forest[v]);
+      ans.push_back(&node_u == &node_v ? node_u.weight : -1);
+    }
+    return ans;
+  }
 };
