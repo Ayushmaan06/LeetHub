@@ -735,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ayushmaan06/LeetHub/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ayushmaan06/LeetHub/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Ayushmaan06/LeetHub/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ayushmaan06/LeetHub/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/Ayushmaan06/LeetHub/tree/master/3430-count-days-without-meetings) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/Ayushmaan06/LeetHub/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2716-prime-subtraction-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/Ayushmaan06/LeetHub/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -1017,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ayushmaan06/LeetHub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
@@ -1084,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2846-robot-collisions](https://github.com/Ayushmaan06/LeetHub/tree/master/2846-robot-collisions) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ayushmaan06/LeetHub/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Memoization
 |  |
@@ -1256,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Ayushmaan06/LeetHub/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ayushmaan06/LeetHub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1306,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Ayushmaan06/LeetHub/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayushmaan06/LeetHub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ayushmaan06/LeetHub/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Enumeration
 |  |
