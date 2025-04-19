@@ -1,29 +1,33 @@
-#include <vector>
-#include <algorithm>
 
 class Solution {
-private:
-    void solve(vector<int>& candidates, int start, vector<int>& current, int target, vector<vector<int>>& result) {
+public:
+    void solve(vector<int>& candidates, vector<int>& curr, vector<vector<int>>& result, 
+               int target, int start) {
         if (target == 0) {
-            result.push_back(current);
+            result.push_back(curr);
             return;
         }
         
-        for (int i = start; i < candidates.size() && target - candidates[i] >= 0; ++i) {
-            if (i > start && candidates[i] == candidates[i-1]) continue; // Skip duplicates
+        for (int i = start; i < candidates.size(); i++) {
+            // Skip duplicates to avoid duplicate combinations
+            if (i > start && candidates[i] == candidates[i-1]) continue;
             
-            current.push_back(candidates[i]);
-            solve(candidates, i + 1, current, target - candidates[i], result);
-            current.pop_back(); // Backtrack
+            // Skip if current candidate is too large
+            if (candidates[i] > target) break;
+            
+            curr.push_back(candidates[i]);
+            solve(candidates, curr, result, target - candidates[i], i + 1);
+            curr.pop_back();
         }
     }
-
-public:
+    
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        // Sort candidates first for handling duplicates efficiently
+        sort(candidates.begin(), candidates.end());
+        
         vector<vector<int>> result;
-        vector<int> current;
-        sort(candidates.begin(), candidates.end()); // Sort to handle duplicates
-        solve(candidates, 0, current, target, result);
+        vector<int> curr;
+        solve(candidates, curr, result, target, 0);
         return result;
     }
 };
