@@ -1,37 +1,28 @@
 class Solution {
 public:
-    bool ispal(const string& s) {
-        int i = 0, j = s.length() - 1;
-        while (i < j) {
+    bool isPalindrome(string s, int i, int j) {
+        while (i <= j) {
             if (s[i] != s[j]) return false;
             i++;
             j--;
         }
         return true;
     }
-
-    vector<vector<string>> partition(string s) {
-        vector<vector<string>> k;
-        for (int i = 0; i < (1 << (s.length() - 1)); i++) {
-            string r;
-            vector<string> v;int flag=0;
-            for (int j = 0; j < s.length(); j++) {
-                r += s[j];
-                if ((i & (1 << j)) || j == s.length() - 1) {
-                    if (ispal(r)) {
-                        v.push_back(r);
-                    }
-                    else    flag=1;
-                    r.clear();
-                }
-            }
-            k.push_back(v);
-            if(flag){
-                k.pop_back();
-                flag=0;
+    void solve(string s, vector<vector<string>>& ans,int n, int i,vector<string>& ds) {
+        if(i==n)ans.push_back(ds);
+        for(int j=i;j<n;j++){
+            if(isPalindrome(s,i,j)){
+                ds.push_back(s.substr(i,j-i+1));
+                solve(s,ans,n,j+1,ds);
+                ds.pop_back();
             }
         }
-        return k;
+    }
+
+    vector<vector<string>> partition(string s) {
+        vector<string> ds;
+        vector<vector<string>> ans;
+        solve(s,ans,s.length(),0,ds);
+        return ans;
     }
 };
-
