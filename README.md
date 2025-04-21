@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ayushmaan06/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ayushmaan06/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2249-count-the-hidden-sequences](https://github.com/Ayushmaan06/LeetHub/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Ayushmaan06/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ayushmaan06/LeetHub/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1266,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushmaan06/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ayushmaan06/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Ayushmaan06/LeetHub/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/Ayushmaan06/LeetHub/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Ayushmaan06/LeetHub/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
