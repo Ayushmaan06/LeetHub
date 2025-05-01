@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ayushmaan06/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0494-target-sum) |
+| [1022-unique-paths-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Ayushmaan06/LeetHub/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ayushmaan06/LeetHub/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushmaan06/LeetHub/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Ayushmaan06/LeetHub/tree/master/1002-maximum-width-ramp) |
+| [1022-unique-paths-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ayushmaan06/LeetHub/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/Ayushmaan06/LeetHub/tree/master/1063-best-sightseeing-pair) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushmaan06/LeetHub/tree/master/0999-regions-cut-by-slashes) |
+| [1022-unique-paths-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1022-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Ayushmaan06/LeetHub/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1346,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Ayushmaan06/LeetHub/tree/master/0476-number-complement) |
+| [1022-unique-paths-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1022-unique-paths-iii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushmaan06/LeetHub/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Ayushmaan06/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
