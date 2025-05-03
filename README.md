@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ayushmaan06/LeetHub/tree/master/0273-integer-to-english-words) |
+| [0412-fizz-buzz](https://github.com/Ayushmaan06/LeetHub/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ayushmaan06/LeetHub/tree/master/0592-fraction-addition-and-subtraction) |
 | [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Ayushmaan06/LeetHub/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ayushmaan06/LeetHub/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Ayushmaan06/LeetHub/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-spiral-matrix-iii) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Ayushmaan06/LeetHub/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/Ayushmaan06/LeetHub/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/Ayushmaan06/LeetHub/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ayushmaan06/LeetHub/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Ayushmaan06/LeetHub/tree/master/0650-2-keys-keyboard) |
