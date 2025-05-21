@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ayushmaan06/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0040-combination-sum-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Ayushmaan06/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Ayushmaan06/LeetHub/tree/master/0198-house-robber) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ayushmaan06/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0794-swim-in-rising-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ayushmaan06/LeetHub/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
