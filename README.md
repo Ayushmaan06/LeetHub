@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushmaan06/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/0078-subsets) |
+| [0135-candy](https://github.com/Ayushmaan06/LeetHub/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Ayushmaan06/LeetHub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0213-house-robber-ii) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Ayushmaan06/LeetHub/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Ayushmaan06/LeetHub/tree/master/0670-maximum-swap) |
