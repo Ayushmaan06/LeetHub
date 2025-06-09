@@ -1,11 +1,8 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     int findKthNumber(int n, int k) {
         int current = 1;
-        k--; // Decrement k because we start from the first number
+        k--; 
 
         while (k > 0) {
             int steps = countSteps(n, current, current + 1);
