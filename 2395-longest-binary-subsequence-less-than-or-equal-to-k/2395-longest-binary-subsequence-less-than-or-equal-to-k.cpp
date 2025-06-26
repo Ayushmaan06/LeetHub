@@ -12,7 +12,7 @@ public:
         for (int i = n - 1; i >= 0; i--) {
             if (s[i] == '1') {
                 if (value + pow > k) {
-                    continue; // Skip this '1' as it would exceed k
+                   break;
                 }
                 value += pow;
                 ones++;
