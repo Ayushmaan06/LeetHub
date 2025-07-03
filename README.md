@@ -1176,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Ayushmaan06/LeetHub/tree/master/2846-robot-collisions) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -1227,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Ayushmaan06/LeetHub/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Ayushmaan06/LeetHub/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Ayushmaan06/LeetHub/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ayushmaan06/LeetHub/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -1506,6 +1509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/Ayushmaan06/LeetHub/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
