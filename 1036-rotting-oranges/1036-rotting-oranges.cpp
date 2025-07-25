@@ -1,42 +1,34 @@
-#include <vector>
-#include <queue>
-using namespace std;
-
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size();
-        queue<pair<int, int>> q; // Queue to store rotten oranges (row, col)
-        int freshOranges = 0, minutes = 0;
-        
-        // Initialize the queue with all rotten oranges and count fresh oranges
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (grid[i][j] == 2) q.push({i, j});
-                else if (grid[i][j] == 1) freshOranges++;
+        int fo=0;
+        queue<pair<int,int>> q;
+        int n = grid.size(), m = grid[0].size();
+        for(int i = 0 ;i < n ; i++){
+            for(int j =0;j<m;j++){
+                if(grid[i][j]==2)q.push({i,j});
+                if(grid[i][j]==1)fo++;
             }
         }
+        int min=0;
+        vector<pair<int, int>> dir = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
         
-        // Directions: up, right, down, left
-        vector<pair<int, int>> directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
-        
-        // BFS traversal
-        while (!q.empty() && freshOranges > 0) {
-            int size = q.size();
-            for (int i = 0; i < size; ++i) {
-                auto [row, col] = q.front(); q.pop();
-                for (auto [dr, dc] : directions) {
-                    int newRow = row + dr, newCol = col + dc;
-                    if (newRow >= 0 && newRow < m && newCol >= 0 && newCol < n && grid[newRow][newCol] == 1) {
-                        grid[newRow][newCol] = 2; // Make it rotten
-                        freshOranges--;
-                        q.push({newRow, newCol});
+        while(!q.empty() && fo>0){
+            int nn = q.size();
+            for(int i = 0 ; i < nn ; i++){
+                auto[r,c]=q.front();q.pop();
+                for(auto [nr,nc] : dir){
+                    int rr=r+nr,cc=c+nc;
+                    if(rr>=0 && rr<n && cc>=0 && cc<m && grid[r+nr][c+nc]==1){
+                        grid[r+nr][c+nc]=2;
+                        fo--;
+                        q.push({r+nr,c+nc});
                     }
                 }
             }
-            minutes++; // Increase minutes after processing all oranges at the current minute
+            min++;
         }
-        
-        return freshOranges == 0 ? minutes : -1;
+        if(fo)return -1;
+        return min;
     }
 };
