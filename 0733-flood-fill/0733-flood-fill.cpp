@@ -1,24 +1,23 @@
 class Solution {
 public:
-    vector<vector<int>> floodFill(vector<vector<int>>& m, int sr, int sc, int k) {
-        if (m[sr][sc] == k) return m; // If the starting cell already has the color k, no need to proceed.
-        int row = m.size(), col = m[0].size();
-        queue<pair<int, int>> q;
-        q.push({sr, sc});
-        int originalColor = m[sr][sc];
-        m[sr][sc] = k;
-        while (!q.empty()) {
-            auto [ro, co] = q.front();
-            q.pop();
-            vector<pair<int, int>> directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-            for (auto [dr, dc] : directions) {
-                int newRow = ro + dr, newCol = co + dc;
-                if (newRow >= 0 && newRow < row && newCol >= 0 && newCol < col && m[newRow][newCol] == originalColor) {
-                    m[newRow][newCol] = k;
-                    q.push({newRow, newCol});
+    vector<vector<int>> floodFill(vector<vector<int>>& img, int sr, int sc, int color) {
+        if(img[sr][sc]==color)return img;
+        queue<pair<int,int>>q;
+        int n = img.size(),m=img[0].size();
+        vector<pair<int, int>> dir = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+        q.push({sr,sc});
+        int og = img[sr][sc];
+        img[sr][sc]=color;
+        while(!q.empty()){
+            auto[r,c]=q.front();q.pop();
+            for(auto[nr,nc]:dir){
+                int rr=r+nr,cc=c+nc;
+                if(rr>=0 && cc>=0 && rr<n && cc<m && img[rr][cc]==og){
+                    img[rr][cc]=color;
+                    q.push({rr,cc});
                 }
             }
         }
-        return m;
+        return img;
     }
 };
