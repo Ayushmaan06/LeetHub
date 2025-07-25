@@ -1,27 +1,28 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
-    void dfs(vector<vector<int>>& isC, vector<bool>& visited, int i) {
-        visited[i] = true;
-        for (int j = 0; j < isC.size(); j++) {
-            if (isC[i][j] == 1 && !visited[j]) {
-                dfs(isC, visited, j);
-            }
-        }
-    }
-
     int findCircleNum(vector<vector<int>>& isC) {
         int n = isC.size();
-        vector<bool> visited(n, false);
-        int count = 0;
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                dfs(isC, visited, i);
-                count++;
+        vector<bool> vis(n,false);
+        int c=0;
+        for(int i = 0 ; i < n ; i++){
+            
+            queue<int> q;
+            if(!vis[i]){
+                c++;
+                q.push(i);
+                vis[i]=true;
+                while(!q.empty()){
+                    int nn = q.front();q.pop();
+                    for(int j=0;j<n;j++){
+                        if(isC[nn][j]&&!vis[j]){
+                            q.push(j);
+                            vis[j]=true;
+                        }
+                    }
+                }
             }
+
         }
-        return count;
+        return c;
     }
 };
