@@ -1,43 +1,45 @@
 class Solution {
 public:
-    void dfs(vector<vector<char>>& board, int r, int c) {
-        int m = board.size(), n = board[0].size();
-        // If out of bounds or not 'O', return
-        if (r < 0 || r >= m || c < 0 || c >= n || board[r][c] != 'O') return;
-        
-        // Mark the cell as visited
-        board[r][c] = 'V';
-        
-        // Explore all four directions
-        vector<pair<int, int>> directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-        for (auto [dr, dc] : directions) {
-            int newRow = r + dr, newCol = c + dc;
-            dfs(board, newRow, newCol);
+    void solve(vector<vector<char>>& b) {
+        int n = b.size(), m = b[0].size();
+        queue<pair<int,int>> q;
+        for(int i=0 ; i<m;i++){
+            if(b[0][i]=='O'){
+                b[0][i]='A';
+                q.push({0,i});
+            }
+            if(b[n-1][i]=='O'){
+                b[n-1][i]='A';
+                q.push({n-1,i});
+            }
         }
-    }
-
-    void solve(vector<vector<char>>& board) {
-        int m = board.size();
-        if (m == 0) return;
-        int n = board[0].size();
-        
-        // Step 1: Mark the unsurrounded regions ('O' connected to border) with 'V'
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if ((i == 0 || i == m - 1 || j == 0 || j == n - 1) && board[i][j] == 'O') {
-                    dfs(board, i, j);
+        for(int i=0 ; i<n;i++){
+            if(b[i][0]=='O'){
+                b[i][0]='A';
+                q.push({i,0});
+            }
+            if(b[i][m-1]=='O'){
+                b[i][m-1]='A';
+                q.push({i,m-1});
+            }
+        }
+        vector<pair<int, int>> dir = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+        while(!q.empty()){
+            auto[r,c]=q.front();q.pop();
+            for(auto[rr,cc] : dir){
+                int nr=r+rr,nc=c+cc;
+                if(nr>=0 && nc>=0 && nr<n &&nc<m){
+                    if(b[nr][nc]=='O'){
+                        b[nr][nc]='A';
+                        q.push({nr,nc});
+                    }
                 }
             }
         }
-
-        // Step 2: Flip all 'O' to 'X' and 'V' back to 'O'
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (board[i][j] == 'O') {
-                    board[i][j] = 'X';
-                } else if (board[i][j] == 'V') {
-                    board[i][j] = 'O';
-                }
+        for(int i = 0 ; i < n ; i++){
+            for(int j = 0 ; j<m ; j++){
+                if(b[i][j]=='A')b[i][j]='O';
+                else b[i][j]='X';
             }
         }
     }
