@@ -1,105 +1,65 @@
 class Solution {
 public:
     vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) {
-        int n=wordList.size();
-
-        unordered_set<string> uset;
-        for(auto const &it:wordList){
-            if(it!=beginWord) uset.insert(it);
-        }
-
+        unordered_map<string, int> depthMap;
+        vector<vector<string>> ans;
+        
+        // BFS to find the shortest path
+        unordered_set<string> wordSet(wordList.begin(), wordList.end());
         queue<string> q;
         q.push(beginWord);
-
-        vector<pair<string,int>> levels;
-        int cnt=0;
-        bool flag=false;
-
-        while(!q.empty()){
-            int sz=q.size();
+        depthMap[beginWord] = 1;
+        wordSet.erase(beginWord);
         
-            for(int i=0;i<sz;i++){
-                string node=q.front();
-                q.pop();
-
-                levels.push_back({node,cnt});
-                
-                if(node==endWord){
-                    flag=true;
-                    break;
-                }
-
-                for(int i=0;i<node.length();i++){
-                    char original=node[i];
-                    for(char j='a';j<='z';j++){
-                        if(original==j) continue;
-                        
-                        node[i]=j;
-                        if(uset.find(node)!=uset.end()){
-                            q.push(node);
-                            uset.erase(node);
-                        }
+        while (!q.empty()) {
+            string word = q.front();
+            q.pop();
+            int steps = depthMap[word];
+            if (word == endWord) break;
+            for (int i = 0; i < word.size(); ++i) {
+                char original = word[i];
+                for (char ch = 'a'; ch <= 'z'; ++ch) {
+                    word[i] = ch;
+                    if (wordSet.count(word)) {
+                        q.push(word);
+                        wordSet.erase(word);
+                        depthMap[word] = steps + 1;
                     }
-                    node[i]=original;
                 }
+                word[i] = original;
             }
-            if(flag) break;
-            cnt++;
         }
         
-        vector<vector<string>> ans;
-
-        if(!flag){
-            return ans;
+        // DFS to find all paths
+        if (depthMap.count(endWord)) {
+            vector<string> seq = {endWord};
+            dfs(endWord, beginWord, seq, depthMap, ans);
         }
-
-        vector<pair<string,int>>::reverse_iterator it=levels.rbegin();
-
-        vector<string> vec;
-        dfs(endWord,levels,ans,vec,it,cnt,beginWord);
-
+        
         return ans;
     }
-
+    
 private:
-
-    void dfs(string str,vector<pair<string,int>> &levels,vector<vector<string>> &ans,vector<string> &vec,vector<pair<string,int>>::reverse_iterator it,int cnt,string &beginWord){
-        if(str==beginWord){
-            vec.push_back(str);
-            reverse(vec.begin(),vec.end());
-            ans.push_back(vec);
-            reverse(vec.begin(),vec.end());
-            vec.pop_back();
-
+    void dfs(string word, string beginWord, vector<string>& seq, unordered_map<string, int>& depthMap, vector<vector<string>>& ans) {
+        if (word == beginWord) {
+            reverse(seq.begin(), seq.end());
+            ans.push_back(seq);
+            reverse(seq.begin(), seq.end());
             return;
         }
         
-        while(it!=levels.rend() && it->second==cnt){
-            it++;
-        }
-
-        while(it!=levels.rend() && it->second==cnt-1){
-            if(isPossible(str,it->first)){
-                vec.push_back(str);
-                dfs(it->first,levels,ans,vec,it,cnt-1,beginWord);
-                vec.pop_back();
+        int steps = depthMap[word];
+        for (int i = 0; i < word.size(); ++i) {
+            char original = word[i];
+            for (char ch = 'a'; ch <= 'z'; ++ch) {
+                word[i] = ch;
+                if (depthMap.count(word) && depthMap[word] + 1 == steps) {
+                    seq.push_back(word);
+                    dfs(word, beginWord, seq, depthMap, ans);
+                    seq.pop_back();
+                }
             }
-            it++;
+            word[i] = original;
         }
-    }
-
-    bool isPossible(string str1,string str2){
-        int n=str1.length();
-
-        int diff=0;
-        for(int i=0;i<n;i++){
-            if(str1[i]!=str2[i]){
-                diff++;
-            }
-
-            if(diff>1) return false;
-        }
-
-        return true;
     }
 };
