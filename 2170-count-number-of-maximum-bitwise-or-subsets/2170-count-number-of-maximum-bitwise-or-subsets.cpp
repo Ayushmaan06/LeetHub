@@ -1,16 +1,12 @@
 class Solution {
 public:
     void backtrack(int i, int currentOr, int maxOr, vector<int>& nums, int& totalCount) {
-        // If we reached the end of the array
         if (i == nums.size()) {
-            // If the current OR equals the maximum OR found, increment the count
             if (currentOr == maxOr) {
                 totalCount++;
             }
             return;
         }
-
-        // Include the current number in the OR
         backtrack(i + 1, currentOr | nums[i], maxOr, nums, totalCount);
 
         backtrack(i + 1, currentOr, maxOr, nums, totalCount);
