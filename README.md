@@ -878,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-special-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Ayushmaan06/LeetHub/tree/master/3430-count-days-without-meetings) |
