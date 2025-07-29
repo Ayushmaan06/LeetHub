@@ -880,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Ayushmaan06/LeetHub/tree/master/3430-count-days-without-meetings) |
+| [3463-alternating-groups-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1476,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ayushmaan06/LeetHub/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3463-alternating-groups-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
