@@ -1,24 +1,31 @@
 class Solution {
 public:
-    vector<vector<int>> mergeArrays(vector<vector<int>>& nums1,
-                                    vector<vector<int>>& nums2) {
-        map<int, int> keyToSum;
-
-        // Copying the array nums1 to the map.
-        for (auto nums : nums1) {
-            keyToSum[nums[0]] = nums[1];
+    vector<vector<int>> mergeArrays(vector<vector<int>>& nums1, vector<vector<int>>& nums2) {
+        int n1=nums1.size(),n2=nums2.size();
+        int i1=0,i2=0;
+        vector<vector<int>> res;
+        while(i1<n1&&i2<n2){
+            if(nums1[i1][0]==nums2[i2][0]){
+                res.push_back({nums1[i1][0],nums1[i1][1]+nums2[i2][1]});
+                i1++;i2++;
+            }
+            else if(nums1[i1][0]<nums2[i2][0]){
+                res.push_back({nums1[i1][0],nums1[i1][1]});
+                i1++;
+            }
+            else if(nums2[i2][0]<nums1[i1][0]){
+                res.push_back({nums2[i2][0],nums2[i2][1]});
+                i2++;
+            }
         }
-
-        // Adding the values to existing keys or create new entries.
-        for (auto nums : nums2) {
-            keyToSum[nums[0]] += nums[1];
+        while(i1<n1){
+            res.push_back({nums1[i1][0],nums1[i1][1]});
+                i1++;
         }
-
-        vector<vector<int>> mergedArray;
-        for (auto it : keyToSum) {
-            mergedArray.push_back({it.first, it.second});
+        while(i2<n2){
+            res.push_back({nums2[i2][0],nums2[i2][1]});
+                i2++;
         }
-
-        return mergedArray;
+        return res;
     }
 };
