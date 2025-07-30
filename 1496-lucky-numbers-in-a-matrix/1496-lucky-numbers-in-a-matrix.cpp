@@ -1,31 +1,23 @@
 class Solution {
 public:
-    vector<int> luckyNumbers (vector<vector<int>>& matrix) {
-    vector<int> luckyNums;
-    int m = matrix.size(), n = matrix[0].size();
-    
-    for (int i = 0; i < m; ++i) {
-        // Find the minimum element in the current row.
-        int minRow = *min_element(matrix[i].begin(), matrix[i].end());
-        int minColIndex = min_element(matrix[i].begin(), matrix[i].end()) - matrix[i].begin();
-        
-        // Assume the current minimum is a lucky number.
-        bool isLucky = true;
-        
-        // Check if it's the maximum in its column.
-        for (int j = 0; j < m; ++j) {
-            if (matrix[j][minColIndex] > minRow) {
-                isLucky = false;
-                break;
+    vector<int> luckyNumbers(vector<vector<int>>& mat) {
+        int n=mat.size(),m=mat[0].size();
+        vector<int> r(n,INT_MAX),c(m,INT_MIN),res;
+        for(int i = 0 ; i < n ; i++){
+            for(int j = 0 ; j < m ; j++){
+                r[i]=min(r[i],mat[i][j]);
             }
         }
-        
-        // If it's a lucky number, add it to the result.
-        if (isLucky) {
-            luckyNums.push_back(minRow);
+        for(int i = 0 ; i < m ; i++){
+            for(int j = 0 ; j < n ; j++){
+                c[i]=max(c[i],mat[j][i]);
+            }
         }
+        for(int i = 0 ; i < n ; i++){
+            for(int j = 0 ; j < m ; j++){
+                if(mat[i][j]==r[i]&& r[i]==c[j])res.push_back(mat[i][j]);
+            }
+        }
+        return res;
     }
-    
-    return luckyNums;
-}
 };
