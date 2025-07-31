@@ -904,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ayushmaan06/LeetHub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3706-smallest-substring-with-identical-characters-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1244,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -1630,6 +1633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ayushmaan06/LeetHub/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1638,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
