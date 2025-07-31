@@ -1,18 +1,21 @@
 class Solution {
 public:
-    vector<bool> isArraySpecial(vector<int>& nums, vector<vector<int>>& qu) {
-        vector<int> vp;
-        for (int i = 1; i < nums.size(); ++i) {
-            if ((nums[i] & 1) == (nums[i - 1] & 1))
-                vp.push_back(i);          
+    vector<bool> isArraySpecial(vector<int>& nums, vector<vector<int>>& queries) {
+        vector<int> prefix(nums.size(),1);
+        for(int i = 1; i < nums.size(); i++){
+            if(nums[i]%2 != nums[i-1]%2){
+                prefix[i] = prefix[i-1]+1;
+            }
         }
-        vector<bool> res;
-        for (const auto& q : qu) {
-            int l = q[0], h = q[1];
-            auto first = lower_bound(vp.begin(), vp.end(), l + 1);
-            auto last  = upper_bound(vp.begin(), vp.end(), h);
-            res.push_back(first == last); 
+        vector<bool> ans;
+        for(int i = 0; i < queries.size(); i++){
+            int s = queries[i][0];
+            int e = queries[i][1];
+            if(prefix[e]-prefix[s] == e-s){
+                ans.push_back(true);
+            }
+            else ans.push_back(false);
         }
-        return res;
+        return ans;
     }
 };
