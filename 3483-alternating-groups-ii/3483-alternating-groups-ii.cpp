@@ -2,18 +2,18 @@ class Solution {
 public:
     int numberOfAlternatingGroups(vector<int>& col, int k) {
         int n = col.size();
-        int sz=n+k;
-        int prev=col[0];
-        int alt=0;
-        int ans=0;
-        for(int i = 1 ; i < sz ; i++){
-            if(prev!=col[i%n])alt++;
-            else{
-                alt=1;
-            }
-            prev=col[i%n];
-            if(alt>=k)ans++;
+        int ans = 0, alt = 0;
+        int prev = col[0];
+
+        for(int i = 1; i < n + k; ++i){
+            int curr = col[i % n];
+            if(curr != prev) alt++;
+            else alt = 1;
+            prev = curr;
+
+            if(alt >= k) ans++;
         }
+
         return ans;
-    }  
+    }
 };
