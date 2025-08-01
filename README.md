@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Ayushmaan06/LeetHub/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3427-special-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3427-special-array-ii) |
@@ -1100,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayushmaan06/LeetHub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Ayushmaan06/LeetHub/tree/master/3195-separate-black-and-white-balls) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
@@ -1152,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Ayushmaan06/LeetHub/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ayushmaan06/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/Ayushmaan06/LeetHub/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ayushmaan06/LeetHub/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1673,6 +1676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Ayushmaan06/LeetHub/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3201-distribute-candies-among-children-ii) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Ayushmaan06/LeetHub/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3690-smallest-substring-with-identical-characters-i) |
