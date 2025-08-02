@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ayushmaan06/LeetHub/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Ayushmaan06/LeetHub/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayushmaan06/LeetHub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2755-extra-characters-in-a-string) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Ayushmaan06/LeetHub/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Ayushmaan06/LeetHub/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ayushmaan06/LeetHub/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Ayushmaan06/LeetHub/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ayushmaan06/LeetHub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ayushmaan06/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1144,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ayushmaan06/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/Ayushmaan06/LeetHub/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Ayushmaan06/LeetHub/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/Ayushmaan06/LeetHub/tree/master/2756-buy-two-chocolates) |
@@ -1196,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Ayushmaan06/LeetHub/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Ayushmaan06/LeetHub/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ayushmaan06/LeetHub/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/Ayushmaan06/LeetHub/tree/master/2756-buy-two-chocolates) |
