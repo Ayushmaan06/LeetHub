@@ -1,8 +1,3 @@
-#include <vector>
-#include <unordered_map>
-#include <algorithm>
-using namespace std;
-
 class Solution {
 public:
     long long minCost(vector<int>& basket1, vector<int>& basket2) {
