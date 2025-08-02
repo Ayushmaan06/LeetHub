@@ -1,41 +1,33 @@
+#include <vector>
+#include <algorithm>
+using namespace std;
+
 class Solution {
 public:
     bool checkValidCuts(int n, vector<vector<int>>& rectangles) {
-        vector<vector<int>> rectangle1, rectangle2;
-        
-        // Extract x and y intervals
-        for (auto &rectangle : rectangles) {
-            rectangle1.push_back({rectangle[0], rectangle[2]});
-            rectangle2.push_back({rectangle[1], rectangle[3]});
+        vector<pair<int,int>> x, y, xx, yy;
+        for(auto& r : rectangles){
+            x.push_back({r[0], r[2]});
+            y.push_back({r[1], r[3]});
         }
-        
-        // Sort the intervals based on their starting points
-        sort(rectangle1.begin(), rectangle1.end());
-        sort(rectangle2.begin(), rectangle2.end());
-        
-        // Process the x intervals
-        int end1 = rectangle1[0][1], count1 = 0;
-        int end2 = rectangle2[0][1], count2 = 0;
-
-        for (int i = 1; i < rectangles.size(); i++) {
-            if (rectangle1[i][0] < end1) {
-                end1 = max(rectangle1[i][1], end1);
-            } else {
-                count1++;
-                end1 = rectangle1[i][1];
+        sort(x.begin(), x.end());
+        sort(y.begin(), y.end());
+        for (int i = 0; i < x.size(); i++) {
+            int st = x[i].first, en = x[i].second;
+            while(i + 1 < x.size() && (x[i+1].first < en)) {
+                en = max(en, x[i+1].second);
+                i++;
             }
-
-            if (rectangle2[i][0] < end2) {
-                end2 = max(rectangle2[i][1], end2);
-            } else {
-                count2++;
-                end2 = rectangle2[i][1];
-            }
-
-            // If either count exceeds 1, we found more than one required partition
-            if (count1 == 2 || count2 == 2) return true;
+            xx.push_back({st, en});
         }
-        
-        return false;
+        for (int i = 0; i < y.size(); i++) {
+            int st = y[i].first, en = y[i].second;
+            while(i + 1 < y.size() && (y[i+1].first < en)) {
+                en = max(en, y[i+1].second);
+                i++;
+            }
+            yy.push_back({st, en});
+        }
+        return (xx.size() > 2 || yy.size() > 2);
     }
 };
