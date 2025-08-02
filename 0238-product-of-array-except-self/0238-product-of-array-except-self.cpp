@@ -1,22 +1,17 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        int hz=0;
-        int p=1;
-        for(int n : nums){
-            if(n)p*=n;
-            else hz++;
+        int n = nums.size();
+        vector<int> output(n);
+        output[0] = 1;
+        for(int i=1; i<n; i++){
+            output[i] = output[i-1] * nums[i-1];
         }
-        vector<int> ans(nums.size(),0);
-        if(hz>1)return ans;
-        if(hz==1){
-            for(int i=0;i<nums.size();i++){
-                if(nums[i]==0){ans[i]=p;return ans;}
-            }
+        int right = 1;
+        for(int i=n-1; i>=0; i--){
+            output[i] *= right;
+            right *= nums[i];
         }
-        for(int  &n : nums){
-            n=p/n;
-        }
-        return nums;
+        return output;
     }
 };
