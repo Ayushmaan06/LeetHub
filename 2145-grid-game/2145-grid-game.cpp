@@ -1,14 +1,18 @@
 class Solution {
 public:
     long long gridGame(vector<vector<int>>& grid) {
-        long long firstRowSum = accumulate(begin(grid[0]), end(grid[0]), 0LL),
-                  secondRowSum = 0;
-        long long minimumSum = LONG_LONG_MAX;
-        for (int turnIndex = 0; turnIndex < grid[0].size(); ++turnIndex) {
-            firstRowSum -= grid[0][turnIndex];
-            minimumSum = min(minimumSum, max(firstRowSum, secondRowSum));
-            secondRowSum += grid[1][turnIndex];
+        int n = grid[0].size();
+        vector<long long> t(n, 0), b(n, 0);
+        t[0] = grid[0][0];
+        b[0] = grid[1][0];
+        for (int i = 1; i < n; i++){
+            t[i] = t[i-1] + grid[0][i];
+            b[i] = b[i-1] + grid[1][i];
         }
-        return minimumSum;
+        long long ans = t[n-1] - t[0];
+        for (int i = 1; i < n; i++){
+            ans = min(ans, max(b[i-1], t[n-1] - t[i]));
+        }
+        return ans;
     }
 };
