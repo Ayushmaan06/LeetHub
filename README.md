@@ -1049,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ayushmaan06/LeetHub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ayushmaan06/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ayushmaan06/LeetHub/tree/master/0198-house-robber) |
@@ -1297,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Ayushmaan06/LeetHub/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Ayushmaan06/LeetHub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
@@ -1769,6 +1771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ayushmaan06/LeetHub/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3201-distribute-candies-among-children-ii) |
