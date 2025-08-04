@@ -1,36 +1,37 @@
 class Solution {
 public:
-    long nCr(int n, int r) {
-        if (r > n) return 0;
-        long res = 1;
-        for (int i = 0; i < r; i++) {
-            res *= (n - i);
-            res /= (i + 1);
+    long long factorial(int num) {
+        long long fact = 1;
+        for (int i = 2; i <= num; ++i) {
+            fact *= i;
         }
-        return res;
+        return fact;
     }
 
+    // Function to calculate nCr
+    long long calculate_nCr(int n, int r) {
+        if (r < 0 || r > n) {
+            return 0; // Invalid input for combinations
+        }
+        return factorial(n) / (factorial(r) * factorial(n - r));
+    }
     int tupleSameProduct(vector<int>& nums) {
+        unordered_map<int,int> mp;
         int n = nums.size();
-        unordered_map<int, int> productCount;
-        
-        // Count all the products of pairs
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int product = nums[i] * nums[j];
-                productCount[product]++;
+        for(int i =0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                mp[nums[i]*nums[j]]++;
             }
         }
-        
-        int result = 0;
-        // For each product, calculate the number of valid quadruples
-        for (auto& entry : productCount) {
-            int count = entry.second;
-            if (count > 1) {
-                result += (nCr(count, 2) * 4);  // each valid pair can contribute 4 valid quadruples
+        int ans=0;
+        for(auto& it : mp){
+            if(it.second==2)ans+=8;
+            else if(it.second>2){
+                int c= calculate_nCr(it.second,2);
+                ans+=c*8;
             }
+            
         }
-        
-        return result*2;
+        return ans;
     }
 };
