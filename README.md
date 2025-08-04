@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/Ayushmaan06/LeetHub/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ayushmaan06/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -898,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ayushmaan06/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/Ayushmaan06/LeetHub/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Ayushmaan06/LeetHub/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -1182,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/Ayushmaan06/LeetHub/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3321-type-of-triangle](https://github.com/Ayushmaan06/LeetHub/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ayushmaan06/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3399-find-the-integer-added-to-array-ii) |
@@ -1380,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/Ayushmaan06/LeetHub/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ayushmaan06/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/3455-minimum-length-of-string-after-operations) |
