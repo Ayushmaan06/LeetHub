@@ -902,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Ayushmaan06/LeetHub/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ayushmaan06/LeetHub/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Ayushmaan06/LeetHub/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Ayushmaan06/LeetHub/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ayushmaan06/LeetHub/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Search
@@ -1579,6 +1581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushmaan06/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ayushmaan06/LeetHub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2915-count-of-interesting-subarrays) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ayushmaan06/LeetHub/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Ayushmaan06/LeetHub/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3427-special-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
