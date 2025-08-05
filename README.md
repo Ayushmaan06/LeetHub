@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Ayushmaan06/LeetHub/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ayushmaan06/LeetHub/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3447-clear-digits](https://github.com/Ayushmaan06/LeetHub/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -1290,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3336-water-bottles-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Ayushmaan06/LeetHub/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3447-clear-digits](https://github.com/Ayushmaan06/LeetHub/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
@@ -1444,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ayushmaan06/LeetHub/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ayushmaan06/LeetHub/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3447-clear-digits](https://github.com/Ayushmaan06/LeetHub/tree/master/3447-clear-digits) |
 ## Memoization
 |  |
 | ------- |
