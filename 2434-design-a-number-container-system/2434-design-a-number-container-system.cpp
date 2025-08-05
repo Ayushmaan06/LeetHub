@@ -1,24 +1,33 @@
 class NumberContainers {
 public:
-    unordered_map<int, int> mp;
-    unordered_map<int, set<int>> idx;
+unordered_map<int,set<int>> num;
+        unordered_map<long,long> idx;
     NumberContainers() {
-        mp.reserve(100000);
+        
     }
     
     void change(int index, int number) {
-        if (mp.count(index)){
-            int x=mp[index];
-            idx[x].erase(index); 
-            if (idx[x].size()==0) idx.erase(x);
+        if(idx.find(index)!=idx.end()){
+            num[idx[index]].erase(index);
+            if(num[idx[index]].empty())num.erase(idx[index]);
+            idx[index]=number;
+            num[number].insert(index);
         }
-        mp[index]=number;
-        idx[number].insert(index);
+        else{
+            idx[index]=number;
+            num[number].insert(index);
+        }
     }
     
     int find(int number) {
-        if (idx.count(number)==0) 
-            return -1;
-        return *(idx[number].begin());
+        if(num.find(number)==num.end())return -1;
+        return *num[number].begin();
     }
 };
+
+/**
+ * Your NumberContainers object will be instantiated and called as such:
+ * NumberContainers* obj = new NumberContainers();
+ * obj->change(index,number);
+ * int param_2 = obj->find(number);
+ */
