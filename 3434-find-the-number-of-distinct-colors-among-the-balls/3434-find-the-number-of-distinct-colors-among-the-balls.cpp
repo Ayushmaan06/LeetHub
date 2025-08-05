@@ -1,34 +1,34 @@
 class Solution {
 public:
     vector<int> queryResults(int limit, vector<vector<int>>& queries) {
-        int n = queries.size();
-        vector<int> result(n);
-        unordered_map<int, int> colorMap, ballMap;
-
-        // Iterate through queries
-        for (int i = 0; i < n; i++) {
-            // Extract ball label and color from query
-            int ball = queries[i][0], color = queries[i][1];
-
-            // Check if ball is already covered
-            if (ballMap.find(ball) != ballMap.end()) {
-                // Decrement count of the previous color on the ball
-                int prevColor = ballMap[ball];
-                colorMap[prevColor]--;
-
-                // If there are no balls with previous color left, remove color
-                // from color map
-                if (colorMap[prevColor] == 0) colorMap.erase(prevColor);
+        unordered_map<int,int> mp;
+        // vector<int> vis(limit+1,-1);
+        unordered_map<int,int> col;
+        vector<int> res;
+        for(vector<int>& q : queries){
+            // if(vis[q[0]]>-1){
+            //     mp[vis[q[0]]]--;
+            //     if (mp[vis[q[0]]]==0)
+            //         mp.erase(vis[q[0]]);
+            //     mp[q[1]]++;
+            //     vis[q[0]]=q[1];
+            // }
+            if(col.find(q[0])!=col.end()){
+                mp[col[q[0]]]--;
+                if (mp[col[q[0]]]==0)
+                    mp.erase(col[q[0]]);
+                mp[q[1]]++;
+                col[q[0]]=q[1];
             }
-            // Set color of ball to the new color
-            ballMap[ball] = color;
+            else{
+                col[q[0]]=q[1];
+                mp[q[1]]++;
 
-            // Increment the count of the new color
-            colorMap[color]++;
+            }
 
-            result[i] = colorMap.size();
+            
+            res.push_back(mp.size());
         }
-
-        return result;
+        return res;
     }
 };
