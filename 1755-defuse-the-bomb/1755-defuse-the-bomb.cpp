@@ -1,28 +1,27 @@
 class Solution {
 public:
     vector<int> decrypt(vector<int>& code, int k) {
-        int n = code.size();
-        vector<int> ans(n, 0);
-        
-        if (k == 0) {
-            return ans; 
+        int n = code.size();vector<int>res(n,0);
+        if(k==0)return res;
+        int st,en;
+        if(k>0){
+            st=1;
+            en=k;
         }
-
-        int start = k > 0 ? 1 : n + k; // Start of the range
-        int end = k > 0 ? k : n - 1;   // End of the range
-        k = abs(k); // Use positive value of k for simplicity
-        
-        int windowSum = 0;
-        for (int i = start; i <= end; i++) {
-            windowSum += code[i % n];
+        else{
+            st=n+k;
+            en=n-1;
         }
-
-        for (int i = 0; i < n; i++) {
-            ans[i] = windowSum;
-            windowSum -= code[(start++) % n];
-            windowSum += code[(++end) % n];
+        int ans=0;
+        for(int i=st;i <= en;i++)ans+=code[i];
+        res[0]=ans;
+        for(int i =1;i<n;i++){
+            ans-=code[st];
+            st=(st+1)%n;
+            en=(en+1)%n;
+            ans+=code[en];
+            res[i]=ans;
         }
-
-        return ans;
+        return res;
     }
 };
