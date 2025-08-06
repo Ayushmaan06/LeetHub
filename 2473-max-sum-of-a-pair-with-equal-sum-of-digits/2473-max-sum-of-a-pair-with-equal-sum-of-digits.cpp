@@ -1,34 +1,29 @@
-#include <vector>
-#include <unordered_map>
-#include <algorithm>
-#include <climits>
-using namespace std;
-
 class Solution {
 public:
-    int sumOfDigits(int number) {
-        int sum = 0;
-        while (number != 0) {
-            sum += number % 10;
-            number /= 10;
+    int sd(int x) {
+        int ans = 0;
+        while (x) {
+            ans += x % 10;
+            x /= 10;
         }
-        return sum;
+        return ans;
     }
 
     int maximumSum(vector<int>& nums) {
-        unordered_map<int, vector<int>> m;
-        for (int num : nums) {
-            int s = sumOfDigits(num);
-            m[s].push_back(num);
-        }
-
-        int ans = -1;
-        for (auto& it : m) {
-            if (it.second.size() > 1) {
-                sort(it.second.begin(), it.second.end(), greater<int>());
-                ans = max(ans, it.second[0] + it.second[1]);
+        sort(nums.begin(), nums.end());
+        unordered_map<int, vector<int>> mp;
+        int ans = -1;  
+        for (int n : nums) {
+            int sumDigits = sd(n);
+            mp[sumDigits].push_back(n);  
+            int sz = mp[sumDigits].size();
+            if (sz >= 2) {
+                int a = mp[sumDigits][sz - 1];
+                int b = mp[sumDigits][sz - 2];
+                ans = max(ans, a + b);
             }
         }
+
         return ans;
     }
 };
