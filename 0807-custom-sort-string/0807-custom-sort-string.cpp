@@ -1,23 +1,21 @@
 class Solution {
- public:
-  string customSortString(string order, string s) {
-    string ans;
-    vector<int> count(200);
-
-    for (const char c : s){
-      ++count[c];
-    }
-    for (const char c : order){
-        while (count[c]-- > 0){
-            ans += c;
+public:
+    string customSortString(string order, string s) {
+        vector<int> v(26,0);
+        for(char c : s){
+            v[c-'a']++;
         }
-    }
-
-    for (char c = 'a'; c <= 'z'; ++c){
-        while (count[c]-- > 0){
-            ans += c;
+        string res="";
+        for(char o : order){
+            int n = v[o-'a'];
+            v[o-'a']=0;
+            for(int i = 0 ; i < n ; i++){
+                res+=o;
+            }
         }
+        for(char c : s){
+            if(v[c-'a'])res+=c;
+        }
+        return res;
     }
-    return ans;
-  }
 };
