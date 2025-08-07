@@ -940,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ayushmaan06/LeetHub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3791-fruits-into-baskets-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1711,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ayushmaan06/LeetHub/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1720,6 +1723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3791-fruits-into-baskets-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
