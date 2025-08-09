@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Ayushmaan06/LeetHub/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Ayushmaan06/LeetHub/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ayushmaan06/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Ayushmaan06/LeetHub/tree/master/0198-house-robber) |
@@ -1329,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ayushmaan06/LeetHub/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ayushmaan06/LeetHub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ayushmaan06/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Ayushmaan06/LeetHub/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
@@ -1458,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ayushmaan06/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushmaan06/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/Ayushmaan06/LeetHub/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
