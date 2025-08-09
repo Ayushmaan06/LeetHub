@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushmaan06/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ayushmaan06/LeetHub/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Ayushmaan06/LeetHub/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
@@ -1450,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/Ayushmaan06/LeetHub/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
