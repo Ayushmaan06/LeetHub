@@ -742,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Ayushmaan06/LeetHub/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Ayushmaan06/LeetHub/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/0780-max-chunks-to-make-sorted) |
 | [0794-swim-in-rising-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0794-swim-in-rising-water) |
@@ -1464,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Ayushmaan06/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/Ayushmaan06/LeetHub/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Ayushmaan06/LeetHub/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1763,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Ayushmaan06/LeetHub/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Ayushmaan06/LeetHub/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayushmaan06/LeetHub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
