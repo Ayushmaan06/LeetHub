@@ -1325,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ayushmaan06/LeetHub/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ayushmaan06/LeetHub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Ayushmaan06/LeetHub/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0268-missing-number) |
@@ -1427,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ayushmaan06/LeetHub/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Ayushmaan06/LeetHub/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ayushmaan06/LeetHub/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
@@ -1659,6 +1661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Ayushmaan06/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Ayushmaan06/LeetHub/tree/master/0476-number-complement) |
