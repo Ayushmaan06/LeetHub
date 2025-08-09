@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ayushmaan06/LeetHub/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ayushmaan06/LeetHub/tree/master/0592-fraction-addition-and-subtraction) |
+| [0649-dota2-senate](https://github.com/Ayushmaan06/LeetHub/tree/master/0649-dota2-senate) |
 | [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Ayushmaan06/LeetHub/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Ayushmaan06/LeetHub/tree/master/0768-partition-labels) |
@@ -1228,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Ayushmaan06/LeetHub/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0624-maximum-distance-in-arrays) |
+| [0649-dota2-senate](https://github.com/Ayushmaan06/LeetHub/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Ayushmaan06/LeetHub/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Ayushmaan06/LeetHub/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1451,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushmaan06/LeetHub/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/Ayushmaan06/LeetHub/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/Ayushmaan06/LeetHub/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0954-maximum-sum-circular-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ayushmaan06/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
