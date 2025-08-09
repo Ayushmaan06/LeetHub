@@ -1441,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushmaan06/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Ayushmaan06/LeetHub/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1453,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushmaan06/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/Ayushmaan06/LeetHub/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1636,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushmaan06/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/Ayushmaan06/LeetHub/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0731-my-calendar-ii) |
