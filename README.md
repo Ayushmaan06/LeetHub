@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ayushmaan06/LeetHub/tree/master/0131-palindrome-partitioning) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Ayushmaan06/LeetHub/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ayushmaan06/LeetHub/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ayushmaan06/LeetHub/tree/master/0056-merge-intervals) |
@@ -1166,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ayushmaan06/LeetHub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ayushmaan06/LeetHub/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0169-majority-element) |
