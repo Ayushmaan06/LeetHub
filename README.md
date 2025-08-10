@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ayushmaan06/LeetHub/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0807-custom-sort-string) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/Ayushmaan06/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/Ayushmaan06/LeetHub/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ayushmaan06/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1182,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Ayushmaan06/LeetHub/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/0780-max-chunks-to-make-sorted) |
 | [0807-custom-sort-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0807-custom-sort-string) |
+| [0900-reordered-power-of-2](https://github.com/Ayushmaan06/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1217-relative-sort-array) |
@@ -1355,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ayushmaan06/LeetHub/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Ayushmaan06/LeetHub/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/Ayushmaan06/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/1240-stone-game-ii) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Ayushmaan06/LeetHub/tree/master/1395-minimum-time-visiting-all-points) |
@@ -1406,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Ayushmaan06/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ayushmaan06/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Ayushmaan06/LeetHub/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1785,6 +1789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Ayushmaan06/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Ayushmaan06/LeetHub/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
