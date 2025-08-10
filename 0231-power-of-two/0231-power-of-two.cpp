@@ -1,8 +1,7 @@
 class Solution {
 public:
-    bool isPowerOfTwo(int n) {
-        if (n <= 0) return false;
-        double x = log2(n);
-        return (x == floor(x));
+    bool isPowerOfTwo(int t) {
+        if (t <= 0) return false;
+        return ((t&(t-1))==0);
     }
 };
