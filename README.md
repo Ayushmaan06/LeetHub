@@ -875,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ayushmaan06/LeetHub/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/Ayushmaan06/LeetHub/tree/master/2502-sort-the-people) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ayushmaan06/LeetHub/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/Ayushmaan06/LeetHub/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ayushmaan06/LeetHub/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ayushmaan06/LeetHub/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2551-apply-operations-to-an-array) |
@@ -1647,6 +1648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Ayushmaan06/LeetHub/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushmaan06/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2529-range-product-queries-of-powers](https://github.com/Ayushmaan06/LeetHub/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ayushmaan06/LeetHub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2915-count-of-interesting-subarrays) |
@@ -1709,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ayushmaan06/LeetHub/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2509-minimize-xor](https://github.com/Ayushmaan06/LeetHub/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/Ayushmaan06/LeetHub/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ayushmaan06/LeetHub/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ayushmaan06/LeetHub/tree/master/2792-neighboring-bitwise-xor) |
