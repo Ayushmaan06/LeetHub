@@ -1,34 +1,25 @@
 class Solution {
 public:
-    bool canFinish(int n, vector<vector<int>>& pre) {
-        vector<int> ind(n,0);
-        vector<int> ans;
-        vector<vector<int>> graph(n);
-        for (const auto& p : pre) {
-            graph[p[1]].push_back(p[0]);
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        if(numCourses <=0)return true;
+        vector<vector<int>> adj(numCourses);
+        vector<int> ind(numCourses,0);
+        for(auto & edge : prerequisites){
+            int u = edge[0], v = edge[1];
+            adj[v].push_back(u);
+            ind[u]++;
         }
-        for(int i = 0 ; i < pre.size() ; i++){
-            ind[pre[i][0]]++;
+        queue<int>q;
+        for(int i = 0 ; i < numCourses ; i++){
+            if(ind[i]==0)q.push(i);
         }
-        queue<int> q;
-        for(int i = 0 ; i < n ; i++){
-            if(ind[i]==0){
-                q.push(i);
+        int p =0;
+        while(!q.empty()){
+            int n = q.front();q.pop();p++;
+            for(int nei : adj[n]){
+                if(--ind[nei]==0)q.push(nei);
             }
         }
-        while (!q.empty()) {
-            int k = q.front();
-            q.pop();
-            ans.push_back(k); // Add to result
-            // Decrease in-degree of adjacent vertices
-            for (int i = 0; i < graph[k].size(); i++) {
-                ind[graph[k][i]]--;
-                if (ind[graph[k][i]] == 0) {
-                    q.push(graph[k][i]);
-                }
-            }
-        }
-        return ans.size()==n;
-
+        return p == numCourses;
     }
 };
