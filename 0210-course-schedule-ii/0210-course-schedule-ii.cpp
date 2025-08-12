@@ -1,42 +1,28 @@
 class Solution {
 public:
-    bool canFinish(int n, vector<vector<int>>& pre,vector<int> &ans) {
-        vector<int> ind(n,0);
-        
-        vector<vector<int>> graph(n);
-        for (const auto& p : pre) {
-            graph[p[1]].push_back(p[0]);
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        if(numCourses == 1)return {0};
+         vector<vector<int>> adj(numCourses);
+        vector<int> ind(numCourses,0);
+        for(auto & edge : prerequisites){
+            int u = edge[0], v = edge[1];
+            adj[v].push_back(u);
+            ind[u]++;
         }
-        for(int i = 0 ; i < pre.size() ; i++){
-            ind[pre[i][0]]++;
+        queue<int>q;
+        for(int i = 0 ; i < numCourses ; i++){
+            if(ind[i]==0)q.push(i);
         }
-        queue<int> q;
-        for(int i = 0 ; i < n ; i++){
-            if(ind[i]==0){
-                q.push(i);
+        vector<int> res;
+        while(!q.empty()){
+            int n = q.front();q.pop();
+            res.push_back(n);
+            for(int nn : adj[n]){
+                ind[nn]--;
+                if(ind[nn]==0)q.push(nn);
             }
         }
-        while (!q.empty()) {
-            int k = q.front();
-            q.pop();
-            ans.push_back(k); // Add to result
-            // Decrease in-degree of adjacent vertices
-            for (int i = 0; i < graph[k].size(); i++) {
-                ind[graph[k][i]]--;
-                if (ind[graph[k][i]] == 0) {
-                    q.push(graph[k][i]);
-                }
-            }
-        }
-        return ans.size()==n;
-
-    }
-    vector<int> findOrder(int n, vector<vector<int>>& pre) {
-        vector<int> ans;
-        if(canFinish(n,pre,ans)){
-            return ans;
-        }
-        ans.clear();
-        return ans;
+        if(res.size()!=numCourses)return {};
+        return res;
     }
 };
