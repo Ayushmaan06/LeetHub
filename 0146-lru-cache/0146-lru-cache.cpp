@@ -1,49 +1,37 @@
-#include <unordered_map>
-#include <list>
-
 class LRUCache {
+private:
+    int cap;
+    list<int> lru_list;
+    unordered_map<int, std::pair<int, std::list<int>::iterator>> mp;
+
 public:
-    LRUCache(int capacity) : capacity(capacity) {}
-
-    int get(int key) {
-        auto it = cache.find(key);
-        if (it == cache.end()) return -1; // Key not found
-
-        // Move the accessed item to the front of the list
-        recent.splice(recent.begin(), recent, it->second);
-        return it->second->second;
+    LRUCache(int capacity) {
+        cap = capacity;
     }
-
+    int get(int key) {
+        if (mp.find(key) == mp.end()) {
+            return -1;
+        }
+        int value = mp[key].first;
+        lru_list.erase(mp[key].second);
+        lru_list.push_front(key);
+        mp[key].second = lru_list.begin();
+    
+        return value;
+    }
     void put(int key, int value) {
-        auto it = cache.find(key);
-
-        if (it != cache.end()) {
-            // Key exists, update the value and move it to the front of the list
-            it->second->second = value;
-            recent.splice(recent.begin(), recent, it->second);
+        if (mp.find(key) != mp.end()) {
+            lru_list.erase(mp[key].second);
+            lru_list.push_front(key);
+            mp[key] = {value, lru_list.begin()};
         } else {
-            // Key does not exist
-            if (recent.size() == capacity) {
-                // Capacity is full, remove the least recently used item
-                int old_key = recent.back().first;
-                recent.pop_back();
-                cache.erase(old_key);
+            if (mp.size() == cap) {
+                int lru = lru_list.back();
+                lru_list.pop_back();
+                mp.erase(lru);
             }
-            // Insert the new key-value pair
-            recent.emplace_front(key, value);
-            cache[key] = recent.begin();
+            lru_list.push_front(key);
+            mp[key] = {value, lru_list.begin()};
         }
     }
-
-private:
-    int capacity;
-    std::list<std::pair<int, int>> recent; // List to store the keys and values
-    std::unordered_map<int, std::list<std::pair<int, int>>::iterator> cache; // Hash map to store the key and corresponding list iterator
 };
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache* obj = new LRUCache(capacity);
- * int param_1 = obj->get(key);
- * obj->put(key,value);
- */
