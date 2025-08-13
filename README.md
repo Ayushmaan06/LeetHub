@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ayushmaan06/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/Ayushmaan06/LeetHub/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
@@ -1291,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ayushmaan06/LeetHub/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/Ayushmaan06/LeetHub/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Ayushmaan06/LeetHub/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Ayushmaan06/LeetHub/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Ayushmaan06/LeetHub/tree/master/0859-design-circular-deque) |
@@ -1674,6 +1676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ayushmaan06/LeetHub/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushmaan06/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/Ayushmaan06/LeetHub/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0729-my-calendar-i) |
@@ -1787,6 +1790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ayushmaan06/LeetHub/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Ayushmaan06/LeetHub/tree/master/0432-all-oone-data-structure) |
 ## Monotonic Stack
 |  |
