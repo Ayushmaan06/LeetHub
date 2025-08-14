@@ -1,39 +1,36 @@
 class Solution {
 public:
-    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int K) {
-        vector<vector<pair<int, int>>> graph(n);
-        for (const auto& f : flights) {
-            graph[f[0]].emplace_back(f[1], f[2]);
+    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
+        vector<int>prices(n,INT_MAX);
+        prices[src] = 0;
+        vector<vector<pair<int,int>>>adj(n);
+        for(int i=0;i<flights.size();i++){
+            int u = flights[i][0], v = flights[i][1],price = flights[i][2];
+            adj[u].push_back({v,price});            
         }
+        queue<vector<int>>q;
+        q.push({0,0,src});
 
-        // Priority queue to store {cost, node, stops}
-        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<>> pq;
-        pq.emplace(0, src, 0);
+        while(!q.empty()){
+            int city = q.front()[2];
+            int pprice = q.front()[1];
+            int pstops = q.front()[0];
+            q.pop();
+            if(pstops > k ) continue;
 
-        vector<int> dist(n, INT_MAX);
-        dist[src] = 0;
+            for(auto &it:adj[city]){
+                
+                int  city = it.first;
+                int in_between_price = it.second;
 
-        // Use memo to track the number of stops to each node
-        vector<int> memo(n, INT_MAX);
-        memo[src] = 0;
-
-        while (!pq.empty()) {
-            auto [cost, node, stops] = pq.top();
-            pq.pop();
-
-            if (node == dst) return cost;
-            if (stops > K) continue;
-
-            for (const auto& [next, price] : graph[node]) {
-                // Only consider this path if it doesn't exceed the minimum distance or allows fewer stops
-                if (cost + price < dist[next] || stops < memo[next]) {
-                    dist[next] = cost + price;
-                    pq.emplace(dist[next], next, stops + 1);
-                    memo[next] = stops; // Update the number of stops to reach 'next'
+                int tprice = in_between_price + pprice;
+                int tstops = pstops + 1;
+                if(prices[ city]  > tprice){
+                    prices[ city] = tprice;
+                    q.push({pstops+1,tprice, city});
                 }
             }
         }
-
-        return dist[dst] == INT_MAX ? -1 : dist[dst];
+        return prices[dst] == INT_MAX ? -1 : prices[dst];
     }
 };
