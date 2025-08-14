@@ -1,50 +1,56 @@
+#include <vector>
+#include <algorithm>
+using namespace std;
+
 class Solution {
 public:
-    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<vector<int>> matrix(n, vector<int>(n, 1e7)); // Use a large number to represent infinity
-        std::ios::sync_with_stdio(false);std::cin.tie(NULL);std::cout.tie(NULL);
-        // Initialize the adjacency matrix
-        for (const auto& edge : edges) {
-            matrix[edge[0]][edge[1]] = edge[2];
-            matrix[edge[1]][edge[0]] = edge[2];
+    const int INF = 1e9;
+    vector<vector<int>> allPairShortestPath(const vector<vector<int>>& adj) {
+        int n = adj.size();
+        vector<vector<int>> dist(n, vector<int>(n, INF));
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i == j) {
+                    dist[i][j] = 0;
+                } else if (adj[i][j] != 0) {
+                    dist[i][j] = adj[i][j];
+                }
+            }
         }
-
-        // Set the diagonal to 0
-        for (int i = 0; i < n; ++i) {
-            matrix[i][i] = 0;
-        }
-
-        // Floyd-Warshall algorithm to find all-pairs shortest paths
-        for (int k = 0; k < n; ++k) {
-            for (int i = 0; i < n; ++i) {
-                for (int j = 0; j < n; ++j) {
-                    if (matrix[i][k] != 1e7 && matrix[k][j] != 1e7) {
-                        matrix[i][j] = min(matrix[i][j], matrix[i][k] + matrix[k][j]);
+        for (int k = 0; k < n; k++) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    if (dist[i][k] < INF && dist[k][j] < INF) { 
+                        dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]);
                     }
                 }
             }
         }
+        return dist;
+    }
 
-        // Count the number of reachable cities within the distance threshold for each city
-        vector<int> reachableCitiesCount(n, 0);
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (i != j && matrix[i][j] <= distanceThreshold) {
-                    ++reachableCitiesCount[i];
+    int findTheCity(int n, vector<vector<int>>& edges, int k) {
+        vector<vector<int>> mat(n, vector<int>(n, 0));
+        for (vector<int>& e : edges) {
+            int u = e[0], v = e[1], w = e[2];
+            mat[u][v] = w;
+            mat[v][u] = w;
+        }
+        vector<vector<int>> dist = allPairShortestPath(mat);
+        int ans = -1, countMin = INF;
+        for (int i = 0; i < n; i++) {
+            int cnt = 0;
+            for (int j = 0; j < n; j++) {
+                if (i == j) continue;
+                if (dist[i][j] <= k) {
+                    cnt++;
                 }
             }
-        }
-
-        // Find the city with the minimum number of reachable cities within the distance threshold
-        // If there's a tie, choose the city with the largest index
-        int minCount = n, resultCity = -1;
-        for (int i = 0; i < n; ++i) {
-            if (reachableCitiesCount[i] <= minCount) {
-                minCount = reachableCitiesCount[i];
-                resultCity = i;
+            if (cnt <= countMin) {
+                countMin = cnt;
+                ans = i;
             }
         }
-
-        return resultCity;
+        return ans;
     }
 };
