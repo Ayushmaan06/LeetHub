@@ -1,32 +1,49 @@
+
+class DSU {
+private:
+    vector<int> parent;
+    vector<int> rank;  
+public:
+    DSU(int n) {
+        parent.resize(n);
+        rank.assign(n, 0);
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+    }
+    int find(int a) {
+        if (parent[a] != a)
+            parent[a] = find(parent[a]);
+        return parent[a];
+    }
+    bool unionSets(int a, int b) {
+        a = find(a);
+        b = find(b);
+        if (a == b) return false;
+        if (rank[a] < rank[b])
+            swap(a, b);
+        parent[b] = a;
+        if (rank[a] == rank[b])
+            rank[a]++;
+        return true;
+    }
+};
+
 class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
-        int e = connections.size();
-        if (e < n - 1) return -1; 
-        vector<vector<int>> adj(n);
-        for (auto& c : connections) {
-            int u = c[0], v = c[1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+        if (connections.size() < n - 1)
+            return -1;
+        DSU dsu(n);
+        for (auto& conn : connections) {
+            int u = conn[0], v = conn[1];
+            dsu.unionSets(u, v);
         }
-        int cc = 0;
-        vector<bool> vis(n, false);
+        int components = 0;
         for (int i = 0; i < n; i++) {
-            if (vis[i]) continue;
-            cc++;
-            queue<int> q;
-            q.push(i);
-            vis[i] = true; 
-            while (!q.empty()) {
-                int u = q.front(); q.pop();
-                for (int v : adj[u]) {
-                    if (!vis[v]) {
-                        vis[v] = true; 
-                        q.push(v);
-                    }
-                }
-            }
+            if (dsu.find(i) == i)
+                components++;
         }
-        return cc - 1;
+        return components - 1;
     }
 };
