@@ -1360,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Ayushmaan06/LeetHub/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ayushmaan06/LeetHub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ayushmaan06/LeetHub/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Ayushmaan06/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/Ayushmaan06/LeetHub/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0564-find-the-closest-palindrome) |
@@ -1463,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ayushmaan06/LeetHub/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Ayushmaan06/LeetHub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ayushmaan06/LeetHub/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ayushmaan06/LeetHub/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ayushmaan06/LeetHub/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1710,6 +1712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ayushmaan06/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Ayushmaan06/LeetHub/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Ayushmaan06/LeetHub/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1022-unique-paths-iii) |
