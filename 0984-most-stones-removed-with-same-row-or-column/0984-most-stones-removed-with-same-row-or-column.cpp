@@ -1,65 +1,72 @@
+class DSU {
+private:
+    vector<int> parent;
+    vector<int> rank;  // For union by rank
+    vector<int> size;  // For union by size
 
-class DisjointSet {
-    vector<int> rank, parent, size;
 public:
-    DisjointSet(int n) {
-        rank.resize(n + 1, 0);
-        parent.resize(n + 1);
-        size.resize(n + 1);
-        for (int i = 0; i <= n; i++) {
+    // Constructor: initialize DSU with n elements (0-indexed)
+    DSU(int n) {
+        parent.resize(n);
+        rank.assign(n, 0);
+        size.assign(n, 1);
+        for (int i = 0; i < n; i++) {
             parent[i] = i;
-            size[i] = 1;
         }
     }
 
-    int findUPar(int node) {
-        if (node == parent[node])
-            return node;
-        return parent[node] = findUPar(parent[node]);
+    // Path compression find
+    int find(int a) {
+        if (parent[a] != a)
+            parent[a] = find(parent[a]);
+        return parent[a];
     }
 
-    void unionByRank(int u, int v) {
-        int ulp_u = findUPar(u);
-        int ulp_v = findUPar(v);
-        if (ulp_u == ulp_v) return;
-        if (rank[ulp_u] < rank[ulp_v]) {
-            parent[ulp_u] = ulp_v;
-        }
-        else if (rank[ulp_v] < rank[ulp_u]) {
-            parent[ulp_v] = ulp_u;
-        }
-        else {
-            parent[ulp_v] = ulp_u;
-            rank[ulp_u]++;
-        }
+    // Union by rank: attach tree with lower rank under tree with higher rank
+    void unionByRank(int a, int b) {
+        a = find(a);
+        b = find(b);
+        if (a == b) return;
+
+        if (rank[a] < rank[b])
+            swap(a, b);
+        parent[b] = a;
+        if (rank[a] == rank[b])
+            rank[a]++;
+    }
+
+    // Union by size: attach tree with smaller size under tree with larger size
+    void unionBySize(int a, int b) {
+        a = find(a);
+        b = find(b);
+        if (a == b) return;
+
+        if (size[a] < size[b])
+            swap(a, b);
+        parent[b] = a;
+        size[a] += size[b];
     }
 };
 class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
-        int n = stones.size();
-        int maxRow = 0;
-        int maxCol = 0;
-        for (auto it : stones) {
-            maxRow = max(maxRow, it[0]);
-            maxCol = max(maxCol, it[1]);
+        int mr=0,mc=0,n=stones.size();
+        for(vector<int> &v : stones){
+            mr=max(mr,v[0]);
+            mc=max(mc,v[1]);
         }
-        DisjointSet ds(maxRow + maxCol + 1);
-        unordered_map<int, int> stoneNodes;
-        for (auto it : stones) {
-            int nodeRow = it[0];
-            int nodeCol = it[1] + maxRow + 1;
-            ds.unionByRank(nodeRow, nodeCol);
-            stoneNodes[nodeRow] = 1;
-            stoneNodes[nodeCol] = 1;
+        DSU dsu(mr+mc+2);
+        unordered_set<int> s;
+        for(vector<int> &v : stones){
+            dsu.unionByRank(v[0],mr+v[1]+1);
+            s.insert(v[0]);
+            s.insert(v[1]+mr+1);
         }
-
-        int cnt = 0;
-        for (auto it : stoneNodes) {
-            if (ds.findUPar(it.first) == it.first) {
-                cnt++;
-            }
+        int ans=0;
+        for(auto& it : s){
+            int x = it;
+            if(dsu.find(x)==x)ans++;
         }
-        return n - cnt;
+        return (n-ans);
     }
 };
