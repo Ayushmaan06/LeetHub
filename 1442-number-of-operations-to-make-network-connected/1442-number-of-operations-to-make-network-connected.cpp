@@ -1,42 +1,32 @@
 class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
-        if (connections.size() < n - 1) return -1;
-        
-        vector<vector<int>> graph(n);
-        vector<bool> visited(n, false);
-        
-        // Build the graph
-        for (const auto& conn : connections) {
-            graph[conn[0]].push_back(conn[1]);
-            graph[conn[1]].push_back(conn[0]);
+        int e = connections.size();
+        if (e < n - 1) return -1; 
+        vector<vector<int>> adj(n);
+        for (auto& c : connections) {
+            int u = c[0], v = c[1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
-        
-        int numComponents = 0;
-        
-        // Perform BFS for each component
-        for (int i = 0; i < n; ++i) {
-            if (!visited[i]) {
-                numComponents++;
-                queue<int> q;
-                q.push(i);
-                visited[i] = true;
-                
-                while (!q.empty()) {
-                    int node = q.front();
-                    q.pop();
-                    
-                    for (int neighbor : graph[node]) {
-                        if (!visited[neighbor]) {
-                            visited[neighbor] = true;
-                            q.push(neighbor);
-                        }
+        int cc = 0;
+        vector<bool> vis(n, false);
+        for (int i = 0; i < n; i++) {
+            if (vis[i]) continue;
+            cc++;
+            queue<int> q;
+            q.push(i);
+            vis[i] = true; 
+            while (!q.empty()) {
+                int u = q.front(); q.pop();
+                for (int v : adj[u]) {
+                    if (!vis[v]) {
+                        vis[v] = true; 
+                        q.push(v);
                     }
                 }
             }
         }
-        
-        // To connect all components, we need (numComponents - 1) extra edges
-        return numComponents - 1;
+        return cc - 1;
     }
 };
