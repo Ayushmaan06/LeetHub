@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ayushmaan06/LeetHub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/Ayushmaan06/LeetHub/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Ayushmaan06/LeetHub/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayushmaan06/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ayushmaan06/LeetHub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Ayushmaan06/LeetHub/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Ayushmaan06/LeetHub/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayushmaan06/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ayushmaan06/LeetHub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Ayushmaan06/LeetHub/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ayushmaan06/LeetHub/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Ayushmaan06/LeetHub/tree/master/0744-network-delay-time) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ayushmaan06/LeetHub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Ayushmaan06/LeetHub/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ayushmaan06/LeetHub/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ayushmaan06/LeetHub/tree/master/0273-integer-to-english-words) |
+| [0399-evaluate-division](https://github.com/Ayushmaan06/LeetHub/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Ayushmaan06/LeetHub/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ayushmaan06/LeetHub/tree/master/0592-fraction-addition-and-subtraction) |
@@ -751,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ayushmaan06/LeetHub/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/Ayushmaan06/LeetHub/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushmaan06/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Ayushmaan06/LeetHub/tree/master/0463-island-perimeter) |
@@ -1157,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Ayushmaan06/LeetHub/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Ayushmaan06/LeetHub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Ayushmaan06/LeetHub/tree/master/1325-path-with-maximum-probability) |
