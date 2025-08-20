@@ -9,13 +9,10 @@ public:
             if (counts[card] == 0) continue;
             for (int i = 0; i < groupSize; i++) {
                 int current_card = card + i;
-                if (counts[current_card] == 0) {
-                    return false;
-                }
+                if (counts[current_card] == 0) return false;
                 counts[current_card]--;
             }
         }
-
         return true;
     }
 };
