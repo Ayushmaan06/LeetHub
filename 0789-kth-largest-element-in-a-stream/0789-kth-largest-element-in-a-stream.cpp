@@ -1,39 +1,24 @@
 class KthLargest {
 public:
-    vector<int> stream;
-    int k;
-
+    priority_queue<int,vector<int>,greater<int>> pq;
+    int x;
     KthLargest(int k, vector<int>& nums) {
-        this->k = k;
-        for (int num : nums) {
-            stream.push_back(num);
+        x=k;
+        for(int num : nums){
+            pq.push(num);
+            if(pq.size()>x)pq.pop();
         }
-        sort(stream.begin(), stream.end());
     }
-
+    
     int add(int val) {
-        int index = getIndex(val);
-        // Add val to correct position
-        stream.insert(stream.begin() + index, val);
-        return stream[stream.size() - k];
-    }
-
-private:
-    int getIndex(int val) {
-        int left = 0;
-        int right = stream.size() - 1;
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            int midValue = stream[mid];
-            if (midValue == val) return mid;
-            if (midValue > val) {
-                // Go to left half
-                right = mid - 1;
-            } else {
-                // Go to right half
-                left = mid + 1;
-            }
-        }
-        return left;
+        pq.push(val);
+        if(pq.size()>x)pq.pop();
+        return pq.top();
     }
 };
+
+/**
+ * Your KthLargest object will be instantiated and called as such:
+ * KthLargest* obj = new KthLargest(k, nums);
+ * int param_1 = obj->add(val);
+ */
