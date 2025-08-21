@@ -5,10 +5,13 @@
 class Solution {
 public:
     int rand10() {
-        int rand40 = 40;
-        while (rand40 >= 40) {
-            rand40 = (rand7() - 1) * 7 + rand7() - 1;
+        while (true) {
+            int a = rand7();
+            int b = rand7();
+            int num = (a - 1) * 7 + b;
+            if (num <= 40) {
+                return (num - 1) % 10 + 1;
+            }
         }
-        return rand40 % 10 + 1;
     }
 };
