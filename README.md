@@ -1433,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Ayushmaan06/LeetHub/tree/master/0900-reordered-power-of-2) |
+| [0903-implement-rand10-using-rand7](https://github.com/Ayushmaan06/LeetHub/tree/master/0903-implement-rand10-using-rand7) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/1240-stone-game-ii) |
@@ -1954,8 +1955,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/Ayushmaan06/LeetHub/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0867-new-21-game) |
+| [0903-implement-rand10-using-rand7](https://github.com/Ayushmaan06/LeetHub/tree/master/0903-implement-rand10-using-rand7) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/Ayushmaan06/LeetHub/tree/master/0903-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/Ayushmaan06/LeetHub/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
