@@ -1471,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Ayushmaan06/LeetHub/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1585-the-kth-factor-of-n](https://github.com/Ayushmaan06/LeetHub/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/Ayushmaan06/LeetHub/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ayushmaan06/LeetHub/tree/master/1806-count-of-matches-in-tournament) |
@@ -1871,6 +1872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Ayushmaan06/LeetHub/tree/master/1585-the-kth-factor-of-n) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ayushmaan06/LeetHub/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2716-prime-subtraction-operation) |
