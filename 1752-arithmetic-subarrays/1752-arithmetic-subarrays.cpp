@@ -2,13 +2,47 @@ class Solution {
 public:
     vector<bool> checkArithmeticSubarrays(vector<int>& nums, vector<int>& l, vector<int>& r) {
         vector<bool> res;
-        for (auto i = 0, j = 0; i < l.size(); ++i) {
-            vector<int> n(begin(nums) + l[i], begin(nums) + r[i] + 1);
-            sort(begin(n), end(n));
-            for (j = 2; j < n.size(); ++j)
-                if (n[j] - n[j - 1] != n[1] - n[0])
-                    break;
-            res.push_back(j == n.size());
+        
+        for (int q = 0; q < l.size(); q++) {
+            int left = l[q], right = r[q];
+            int len = right - left + 1;
+            
+            int mn = INT_MAX, mx = INT_MIN;
+            for (int i = left; i <= right; i++) {
+                mn = min(mn, nums[i]);
+                mx = max(mx, nums[i]);
+            }
+            
+            if (len <= 2) {
+                res.push_back(true);
+                continue;
+            }
+            
+            if ((mx - mn) % (len - 1) != 0) {
+                res.push_back(false);
+                continue;
+            }
+            
+            int d = (mx - mn) / (len - 1);
+            if (d == 0) {
+                // all numbers must be equal
+                bool ok = true;
+                for (int i = left; i <= right; i++) {
+                    if (nums[i] != mn) { ok = false; break; }
+                }
+                res.push_back(ok);
+                continue;
+            }
+            
+            unordered_set<int> seen;
+            bool ok = true;
+            for (int i = left; i <= right; i++) {
+                if ((nums[i] - mn) % d != 0) { ok = false; break; }
+                int pos = (nums[i] - mn) / d;
+                if (seen.count(pos)) { ok = false; break; }
+                seen.insert(pos);
+            }
+            res.push_back(ok);
         }
         return res;
     }
