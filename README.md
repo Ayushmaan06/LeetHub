@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ayushmaan06/LeetHub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Ayushmaan06/LeetHub/tree/master/1063-best-sightseeing-pair) |
+| [1127-last-stone-weight](https://github.com/Ayushmaan06/LeetHub/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/Ayushmaan06/LeetHub/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ayushmaan06/LeetHub/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1139,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ayushmaan06/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/Ayushmaan06/LeetHub/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/Ayushmaan06/LeetHub/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Ayushmaan06/LeetHub/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ayushmaan06/LeetHub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
