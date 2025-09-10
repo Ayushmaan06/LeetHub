@@ -7,15 +7,15 @@ public:
             int u = f[0], v = f[1];
             bool com = false;
             unordered_map<int,int> ll;
-            unordered_set<int> s;
+            // unordered_set<int> s;
             for(int x : languages[u-1]){
                 ll[x]++;
-                s.insert(x);
+                // s.insert(x);
             }
             for(int x : languages[v-1]){
                 ll[x]++;
                 if(ll[x]>1){ com = true; break; }
-                s.insert(x);
+                // s.insert(x);
             }
             if(!com){
                 needTeach.insert(u);
