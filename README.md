@@ -716,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ayushmaan06/LeetHub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Ayushmaan06/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2755-extra-characters-in-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Ayushmaan06/LeetHub/tree/master/3055-maximum-odd-binary-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1346,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/Ayushmaan06/LeetHub/tree/master/2756-buy-two-chocolates) |
 | [2846-robot-collisions](https://github.com/Ayushmaan06/LeetHub/tree/master/2846-robot-collisions) |
+| [2887-sort-vowels-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ayushmaan06/LeetHub/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
