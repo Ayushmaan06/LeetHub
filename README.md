@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ayushmaan06/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
 ## Hash Table
 |  |
 | ------- |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Ayushmaan06/LeetHub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ayushmaan06/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ayushmaan06/LeetHub/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ayushmaan06/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ayushmaan06/LeetHub/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ayushmaan06/LeetHub/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1576,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Ayushmaan06/LeetHub/tree/master/3637-count-number-of-balanced-permutations) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Ayushmaan06/LeetHub/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ayushmaan06/LeetHub/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Ayushmaan06/LeetHub/tree/master/3830-find-closest-person) |
@@ -1956,6 +1960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ayushmaan06/LeetHub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Ayushmaan06/LeetHub/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
 ## Rolling Hash
 |  |
 | ------- |
