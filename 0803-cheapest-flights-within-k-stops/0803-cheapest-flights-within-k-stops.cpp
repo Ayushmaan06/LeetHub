@@ -1,36 +1,27 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        vector<int>prices(n,INT_MAX);
-        prices[src] = 0;
-        vector<vector<pair<int,int>>>adj(n);
-        for(int i=0;i<flights.size();i++){
-            int u = flights[i][0], v = flights[i][1],price = flights[i][2];
-            adj[u].push_back({v,price});            
+        vector<int> p(n,INT_MAX);
+        p[src]=0;
+        vector<vector<pair<int,int>>> adj(n);
+        for(vector<int>& f : flights){
+            adj[f[0]].push_back({f[1],f[2]});
         }
-        queue<vector<int>>q;
+        queue<vector<int>> q;
         q.push({0,0,src});
-
         while(!q.empty()){
-            int city = q.front()[2];
-            int pprice = q.front()[1];
-            int pstops = q.front()[0];
+            vector<int> t = q.front();
             q.pop();
-            if(pstops > k ) continue;
-
-            for(auto &it:adj[city]){
-                
-                int  city = it.first;
-                int in_between_price = it.second;
-
-                int tprice = in_between_price + pprice;
-                int tstops = pstops + 1;
-                if(prices[ city]  > tprice){
-                    prices[ city] = tprice;
-                    q.push({pstops+1,tprice, city});
+            int c = t[0], st=t[1], u=t[2];
+            if(st>k)continue;
+            for(auto[v,d] : adj[u]){
+                if(d+c<p[v]){
+                    p[v]=d+c;
+                    q.push({p[v],st+1,v});
                 }
             }
         }
-        return prices[dst] == INT_MAX ? -1 : prices[dst];
+        if(p[dst]==INT_MAX)return -1;
+        return p[dst];
     }
 };
