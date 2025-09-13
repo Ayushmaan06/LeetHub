@@ -1,44 +1,83 @@
+class DSU {
+private:
+    vector<int> parent;
+    vector<int> rank;  // For union by rank
+    vector<int> size;  // For union by size
 
-class UnionFind {
-    vector<int> id;
 public:
-    UnionFind(int n) : id(n) {
-        iota(begin(id), end(id), 0);
+    // Constructor: initialize DSU with n elements (0-indexed)
+    DSU(int n) {
+        parent.resize(n);
+        rank.assign(n, 0);
+        size.assign(n, 1);
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
     }
-    void connect(int a, int b) {
-        id[find(b)] = find(a);
-    }
+
+    // Path compression find
     int find(int a) {
-        return id[a] == a ? a : (id[a] = find(id[a]));
+        if (parent[a] != a)
+            parent[a] = find(parent[a]);
+        return parent[a];
     }
-    bool connected(int a, int b) {
-        return find(a) == find(b);
+
+    // Union by rank: attach tree with lower rank under tree with higher rank
+    void unionByRank(int a, int b) {
+        a = find(a);
+        b = find(b);
+        if (a == b) return;
+
+        if (rank[a] < rank[b])
+            swap(a, b);
+        parent[b] = a;
+        if (rank[a] == rank[b])
+            rank[a]++;
     }
-    void reset(int a) { id[a] = a; }
+
+    // Union by size: attach tree with smaller size under tree with larger size
+    void unionBySize(int a, int b) {
+        a = find(a);
+        b = find(b);
+        if (a == b) return;
+
+        if (size[a] < size[b])
+            swap(a, b);
+        parent[b] = a;
+        size[a] += size[b];
+    }
+
+    int getSize(int a) {
+        return size[find(a)];
+    }
+    void reset(int a){parent[a]=a;}
 };
 class Solution {
 public:
-    vector<int> findAllPeople(int n, vector<vector<int>>& A, int firstPerson) {
-        sort(begin(A), end(A), [](auto &a, auto &b) { return a[2] < b[2]; }); // Sort the meetings in ascending order of meeting time
-        UnionFind uf(n);
-        uf.connect(0, firstPerson); // Connect person 0 with the first person
-        vector<int> ppl;
-        for (int i = 0, M = A.size(); i < M; ) {
-            ppl.clear();
-            int time = A[i][2];
-            for (; i < M && A[i][2] == time; ++i) { // For all the meetings happening at the same time
-                uf.connect(A[i][0], A[i][1]); // Connect the two persons
-                ppl.push_back(A[i][0]); // Add both persons into the pool
-                ppl.push_back(A[i][1]);
-            }
-            for (int n : ppl) { // For each person in the pool, check if he/she's connected with person 0.
-                if (!uf.connected(0, n)) uf.reset(n); // If not, this person doesn't have secret, reset it.
-            }
+    vector<int> findAllPeople(int n, vector<vector<int>>& vec, int fp) {
+    //     sort(vec.begin(), vec.end(), [](const vector<int>& a, const vector<int>& b) {
+    //     return a[2] < b[2];
+    // });
+        DSU dsu(n);
+        dsu.unionByRank(0,fp);
+        // for(vector<int> v : vec){
+        //     int x = v[0], y = v[1];
+        //     if(dsu.find(x)==dsu.find(0) || dsu.find(y)==dsu.find(0))dsu.unionByRank(x,y);
+        // }
+        vector<int> res;
+        map<int,vector<pair<int,int>>>mp;
+        for(vector<int> v : vec){
+            mp[v[2]].push_back({v[0],v[1]});
         }
-        vector<int> ans;
-        for (int i = 0; i < n; ++i) {
-            if (uf.connected(0, i)) ans.push_back(i); // Push all the persons who are connected with person 0 into answer array
+        for(auto& it : mp){
+            vector<pair<int,int>> vp = it.second;
+            vector<int> p;
+            for(auto[x,y] : vp){dsu.unionByRank(x,y);p.push_back(x);p.push_back(y);}
+            for(int pp : p)if(dsu.find(pp)!=dsu.find(0))dsu.reset(pp);
         }
-        return ans;
+        for(int i = 0 ; i < n ; i++){
+            if(dsu.find(0)==dsu.find(i))res.push_back(i);
+        }
+        return res;
     }
 };
