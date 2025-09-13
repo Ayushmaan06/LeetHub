@@ -1,59 +1,44 @@
+
+class UnionFind {
+    vector<int> id;
+public:
+    UnionFind(int n) : id(n) {
+        iota(begin(id), end(id), 0);
+    }
+    void connect(int a, int b) {
+        id[find(b)] = find(a);
+    }
+    int find(int a) {
+        return id[a] == a ? a : (id[a] = find(id[a]));
+    }
+    bool connected(int a, int b) {
+        return find(a) == find(b);
+    }
+    void reset(int a) { id[a] = a; }
+};
 class Solution {
 public:
-    vector<int> findAllPeople(int n, vector<vector<int>>& meetings, int firstPerson) {
-        vector<bool> hasSecret(n, false);
-        hasSecret[0] = true;
-        hasSecret[firstPerson] = true;
-        
-        map<int, vector<pair<int, int>>> timeToMeetings;
-        for (auto& meeting : meetings) {
-            timeToMeetings[meeting[2]].push_back({meeting[0], meeting[1]});
-        }
-        
-        for (auto& [time, meetingList] : timeToMeetings) {
-            unordered_set<int> participants;
-            unordered_map<int, vector<int>> adj;
-            
-            for (auto& [x, y] : meetingList) {
-                adj[x].push_back(y);
-                adj[y].push_back(x);
-                participants.insert(x);
-                participants.insert(y);
+    vector<int> findAllPeople(int n, vector<vector<int>>& A, int firstPerson) {
+        sort(begin(A), end(A), [](auto &a, auto &b) { return a[2] < b[2]; }); // Sort the meetings in ascending order of meeting time
+        UnionFind uf(n);
+        uf.connect(0, firstPerson); // Connect person 0 with the first person
+        vector<int> ppl;
+        for (int i = 0, M = A.size(); i < M; ) {
+            ppl.clear();
+            int time = A[i][2];
+            for (; i < M && A[i][2] == time; ++i) { // For all the meetings happening at the same time
+                uf.connect(A[i][0], A[i][1]); // Connect the two persons
+                ppl.push_back(A[i][0]); // Add both persons into the pool
+                ppl.push_back(A[i][1]);
             }
-            
-            queue<int> q;
-            vector<bool> visited(n, false);
-            
-            for (int p : participants) {
-                if (hasSecret[p] && !visited[p]) {
-                    q.push(p);
-                    visited[p] = true;
-                }
-            }
-            
-            while (!q.empty()) {
-                int curr = q.front();
-                q.pop();
-                
-                for (int neighbor : adj[curr]) {
-                    if (!visited[neighbor]) {
-                        hasSecret[neighbor] = true;
-                        visited[neighbor] = true;
-                        q.push(neighbor);
-                    }
-                }
+            for (int n : ppl) { // For each person in the pool, check if he/she's connected with person 0.
+                if (!uf.connected(0, n)) uf.reset(n); // If not, this person doesn't have secret, reset it.
             }
         }
-        
-        vector<int> result;
-        for (int i = 0; i < n; i++) {
-            if (hasSecret[i]) {
-                result.push_back(i);
-            }
+        vector<int> ans;
+        for (int i = 0; i < n; ++i) {
+            if (uf.connected(0, i)) ans.push_back(i); // Push all the persons who are connected with person 0 into answer array
         }
-        
-        return result;
+        return ans;
     }
 };
-
-auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
