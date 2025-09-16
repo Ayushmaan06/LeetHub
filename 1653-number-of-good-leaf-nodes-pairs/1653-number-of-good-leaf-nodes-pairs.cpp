@@ -1,36 +1,52 @@
 class Solution {
 public:
-    int countPairs(TreeNode* root, int distance) {
-        int count = 0;
-        dfs(root, distance, count);
-        return count;
+    unordered_set<TreeNode*> leaf;
+
+    void bg(TreeNode *root, unordered_map<TreeNode*, vector<TreeNode*>> &adj) {
+        if (!root) return;
+        if (root->left) {
+            adj[root].push_back(root->left);
+            adj[root->left].push_back(root);
+            bg(root->left, adj);
+        }
+        if (root->right) {
+            adj[root].push_back(root->right);
+            adj[root->right].push_back(root);
+            bg(root->right, adj);
+        }
+        if (!root->left && !root->right) {
+            leaf.insert(root);
+        }
     }
 
-private:
-    vector<int> dfs(TreeNode* node, int distance, int& count) {
-        if (!node) return vector<int>(distance + 1, 0);
-        if (!node->left && !node->right) {
-            vector<int> leafDist(distance + 1, 0);
-            leafDist[1] = 1; // Leaf node at distance 1 from itself
-            return leafDist;
-        }
+    int countPairs(TreeNode* root, int k) {
+        unordered_map<TreeNode*, vector<TreeNode*>> adj;
+        bg(root, adj);
 
-        vector<int> leftDist = dfs(node->left, distance, count);
-        vector<int> rightDist = dfs(node->right, distance, count);
+        int ans = 0;
+        // For each leaf, BFS to count pairs
+        for (auto start : leaf) {
+            queue<pair<TreeNode*, int>> q;
+            unordered_set<TreeNode*> vis;
+            q.push({start, 0});
+            vis.insert(start);
 
-        // Count good leaf node pairs
-        for (int i = 1; i <= distance; ++i) {
-            for (int j = 1; j <= distance - i; ++j) {
-                count += leftDist[i] * rightDist[j];
+            while (!q.empty()) {
+                auto [node, dist] = q.front(); q.pop();
+                if (dist > k) continue;
+
+                if (leaf.count(node) && node != start && dist <= k) {
+                    ans++;
+                }
+
+                for (auto nei : adj[node]) {
+                    if (!vis.count(nei)) {
+                        vis.insert(nei);
+                        q.push({nei, dist + 1});
+                    }
+                }
             }
         }
-
-        // Combine distances for the current node
-        vector<int> currDist(distance + 1, 0);
-        for (int i = 2; i <= distance; ++i) {
-            currDist[i] = leftDist[i - 1] + rightDist[i - 1];
-        }
-
-        return currDist;
+        return ans / 2;  // divide by 2 (each pair counted twice)
     }
 };
