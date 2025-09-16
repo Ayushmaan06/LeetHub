@@ -1,24 +1,25 @@
 class Solution {
 public:
-    int gcd(int a, int b) {
-        return (b == 0) ? a : gcd(b, a % b);
-    }
-
-    int lcm(int a, int b) {
+    long long lcm(long long a, long long b) {
         return (a / gcd(a, b)) * b;
     }
+
     vector<int> replaceNonCoprimes(vector<int>& nums) {
-        stack<int> st;
-        for(int n : nums){
-            while(!st.empty() && gcd(n,st.top())>1){
-                int x = st.top();st.pop();
-                n=lcm(n,x);
+        stack<long long> st;
+        for (long long n : nums) {
+            while (!st.empty() && gcd(n, st.top()) > 1) {
+                n = lcm(n, st.top());
+                st.pop();
             }
             st.push(n);
         }
         vector<int> res;
-        while(!st.empty())res.push_back(st.top()),st.pop();
-        reverse(res.begin(),res.end());
+        res.reserve(st.size());
+        while (!st.empty()) {
+            res.emplace_back((int)st.top());
+            st.pop();
+        }
+        reverse(res.begin(), res.end());
         return res;
     }
 };
