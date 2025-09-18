@@ -1329,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushmaan06/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ayushmaan06/LeetHub/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/Ayushmaan06/LeetHub/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushmaan06/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushmaan06/LeetHub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1591,6 +1592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/2448-count-number-of-bad-pairs) |
+| [2481-strictly-palindromic-number](https://github.com/Ayushmaan06/LeetHub/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Ayushmaan06/LeetHub/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ayushmaan06/LeetHub/tree/master/2610-closest-prime-numbers-in-range) |
@@ -2151,6 +2153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1086-divisor-game) |
+| [2481-strictly-palindromic-number](https://github.com/Ayushmaan06/LeetHub/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ayushmaan06/LeetHub/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/3462-vowels-game-in-a-string) |
