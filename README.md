@@ -1493,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ayushmaan06/LeetHub/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayushmaan06/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Ayushmaan06/LeetHub/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Ayushmaan06/LeetHub/tree/master/0432-all-oone-data-structure) |
@@ -1684,6 +1685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Ayushmaan06/LeetHub/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ayushmaan06/LeetHub/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
