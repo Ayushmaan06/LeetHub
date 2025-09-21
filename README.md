@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/Ayushmaan06/LeetHub/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushmaan06/LeetHub/tree/master/0560-subarray-sum-equals-k) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ayushmaan06/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/Ayushmaan06/LeetHub/tree/master/0399-evaluate-division) |
@@ -1224,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Ayushmaan06/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Ayushmaan06/LeetHub/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/Ayushmaan06/LeetHub/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushmaan06/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1378,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ayushmaan06/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushmaan06/LeetHub/tree/master/0435-non-overlapping-intervals) |
@@ -1659,6 +1663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Ayushmaan06/LeetHub/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/Ayushmaan06/LeetHub/tree/master/0900-reordered-power-of-2) |
@@ -1786,6 +1791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0948-sort-an-array) |
@@ -1915,6 +1921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ayushmaan06/LeetHub/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -2251,6 +2258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
 ## Rejection Sampling
 |  |
 | ------- |
