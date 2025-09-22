@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ayushmaan06/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Ayushmaan06/LeetHub/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Array
 |  |
 | ------- |
@@ -1114,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3647-zero-array-transformation-iii) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ayushmaan06/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ayushmaan06/LeetHub/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
@@ -1332,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Ayushmaan06/LeetHub/tree/master/3637-count-number-of-balanced-permutations) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ayushmaan06/LeetHub/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Shortest Path
 |  |
@@ -2112,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Ayushmaan06/LeetHub/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -2295,4 +2300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ayushmaan06/LeetHub/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3649-minimum-time-to-break-locks-i) |
 <!---LeetCode Topics End-->
