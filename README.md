@@ -1106,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3483-alternating-groups-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayushmaan06/LeetHub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1332,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Ayushmaan06/LeetHub/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Ayushmaan06/LeetHub/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1517,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ayushmaan06/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ayushmaan06/LeetHub/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3647-zero-array-transformation-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ayushmaan06/LeetHub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
