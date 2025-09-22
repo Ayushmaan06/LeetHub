@@ -1,18 +1,23 @@
 class Solution {
 public:
-    long minEnd(int n, int x) {
-        long result = x;
-        long remaining = n - 1;
-        long position = 1;
-        
-        while (remaining) {
-            if (!(x & position)) {
-                result |= (remaining & 1) * position;
-                remaining >>= 1;
+    long long minEnd(int n, int x) {
+        long long i = 0LL, ix = 0LL; 
+        long long r = n - 1LL;      
+        long long ans = x;  
+        while (i < 64) {
+            if (ix >= 64) {
+                break;  
             }
-            position <<= 1;
+            long long z = x & (1LL << ix);  
+            if (!z) {  
+                long long y = r & (1LL << i);   
+                if (y) {
+                    ans = ans | (1LL << ix);
+                }
+                i++;
+            }
+            ix++;  
         }
-        
-        return result;
+        return ans;  
     }
 };
