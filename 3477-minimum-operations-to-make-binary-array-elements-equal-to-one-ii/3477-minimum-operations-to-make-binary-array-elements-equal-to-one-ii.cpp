@@ -1,15 +1,17 @@
-
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-        int flag=1;
-        int count=0,n=nums.size();
-        for(int i=0;i<n;i++){
-            if(nums[i]!=flag){
-                count++;
-                flag=!flag;
+        int ans=0;
+        bool og=true;
+
+        for(int i : nums){
+            if(i){
+                if(!og)ans++,og=!og;
+            }
+            else{
+                if(og)ans++,og=!og;
             }
         }
-        return count;
+        return ans;
     }
 };
