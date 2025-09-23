@@ -1330,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2586-longest-square-streak-in-an-array) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Ayushmaan06/LeetHub/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ayushmaan06/LeetHub/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1510,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Ayushmaan06/LeetHub/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Ayushmaan06/LeetHub/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ayushmaan06/LeetHub/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Ayushmaan06/LeetHub/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2716-prime-subtraction-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/Ayushmaan06/LeetHub/tree/master/2756-buy-two-chocolates) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
@@ -2115,6 +2117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/Ayushmaan06/LeetHub/tree/master/2509-minimize-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/Ayushmaan06/LeetHub/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ayushmaan06/LeetHub/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Ayushmaan06/LeetHub/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ayushmaan06/LeetHub/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
