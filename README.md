@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Ayushmaan06/LeetHub/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0890-lemonade-change) |
+| [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Ayushmaan06/LeetHub/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1151,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ayushmaan06/LeetHub/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
+| [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-spiral-matrix-iii) |
 | [0971-shortest-bridge](https://github.com/Ayushmaan06/LeetHub/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushmaan06/LeetHub/tree/master/0999-regions-cut-by-slashes) |
@@ -1483,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ayushmaan06/LeetHub/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Ayushmaan06/LeetHub/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0890-lemonade-change) |
+| [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Ayushmaan06/LeetHub/tree/master/1026-string-without-aaa-or-bbb) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ayushmaan06/LeetHub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -2103,6 +2106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Ayushmaan06/LeetHub/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Ayushmaan06/LeetHub/tree/master/0476-number-complement) |
+| [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1022-unique-paths-iii) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ayushmaan06/LeetHub/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
