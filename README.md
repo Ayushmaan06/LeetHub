@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Ayushmaan06/LeetHub/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ayushmaan06/LeetHub/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ayushmaan06/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ayushmaan06/LeetHub/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
@@ -1596,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ayushmaan06/LeetHub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayushmaan06/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ayushmaan06/LeetHub/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Ayushmaan06/LeetHub/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
