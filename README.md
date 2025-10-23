@@ -818,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ayushmaan06/LeetHub/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Ayushmaan06/LeetHub/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
@@ -1678,6 +1679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Ayushmaan06/LeetHub/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ayushmaan06/LeetHub/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
@@ -1778,6 +1780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ayushmaan06/LeetHub/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Ayushmaan06/LeetHub/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
@@ -2250,6 +2253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Ayushmaan06/LeetHub/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -2395,6 +2399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Ayushmaan06/LeetHub/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Ayushmaan06/LeetHub/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Probability and Statistics
 |  |
 | ------- |
