@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/Ayushmaan06/LeetHub/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Ayushmaan06/LeetHub/tree/master/0412-fizz-buzz) |
+| [0474-ones-and-zeroes](https://github.com/Ayushmaan06/LeetHub/tree/master/0474-ones-and-zeroes) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ayushmaan06/LeetHub/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/Ayushmaan06/LeetHub/tree/master/0649-dota2-senate) |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Ayushmaan06/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushmaan06/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Ayushmaan06/LeetHub/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Ayushmaan06/LeetHub/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Ayushmaan06/LeetHub/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
@@ -1373,6 +1375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ayushmaan06/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushmaan06/LeetHub/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/Ayushmaan06/LeetHub/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/Ayushmaan06/LeetHub/tree/master/0650-2-keys-keyboard) |
