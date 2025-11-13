@@ -1,19 +1,13 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        int r=0,og=x;
-        while(x>0){
-
-            int digit = x % 10;
-            x /= 10;
-            if (r > INT_MAX / 10 || (r == INT_MAX / 10 && digit > 7)) return 0;
-            if (r < INT_MIN / 10 || (r == INT_MIN / 10 && digit < -8)) return 0;
-
-            r = r * 10 + digit;
+        string s = to_string(x);
+        int n=s.length();
+        int i =0;
+        while(i<n/2){
+            if(s[i]!=s[n-i-1])return false;
+            i++;
         }
-        if(r==og)
-            return true;
-        else
-            return false;
+        return true;
     }
 };
