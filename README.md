@@ -937,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Ayushmaan06/LeetHub/tree/master/0906-walking-robot-simulation) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Ayushmaan06/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Ayushmaan06/LeetHub/tree/master/0926-find-and-replace-pattern) |
@@ -1224,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Ayushmaan06/LeetHub/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Ayushmaan06/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-spiral-matrix-iii) |
 | [0971-shortest-bridge](https://github.com/Ayushmaan06/LeetHub/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushmaan06/LeetHub/tree/master/0999-regions-cut-by-slashes) |
@@ -1760,6 +1762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Ayushmaan06/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/Ayushmaan06/LeetHub/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Ayushmaan06/LeetHub/tree/master/0915-generate-random-point-in-a-circle) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Ayushmaan06/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayushmaan06/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1086-divisor-game) |
@@ -2456,6 +2459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Ayushmaan06/LeetHub/tree/master/0830-largest-triangle-area) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Ayushmaan06/LeetHub/tree/master/0915-generate-random-point-in-a-circle) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Ayushmaan06/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Ayushmaan06/LeetHub/tree/master/1395-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Ayushmaan06/LeetHub/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
