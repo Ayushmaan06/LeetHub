@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3308-apply-operations-to-make-string-empty](https://github.com/Ayushmaan06/LeetHub/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ayushmaan06/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ayushmaan06/LeetHub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -1172,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Ayushmaan06/LeetHub/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ayushmaan06/LeetHub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Ayushmaan06/LeetHub/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
@@ -2225,6 +2227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2915-count-of-interesting-subarrays) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ayushmaan06/LeetHub/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Ayushmaan06/LeetHub/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ayushmaan06/LeetHub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/3616-make-array-elements-equal-to-zero) |
