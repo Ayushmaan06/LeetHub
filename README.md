@@ -952,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Ayushmaan06/LeetHub/tree/master/0926-find-and-replace-pattern) |
+| [0931-minimum-falling-path-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0931-minimum-falling-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ayushmaan06/LeetHub/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0948-sort-an-array) |
@@ -1245,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Ayushmaan06/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-spiral-matrix-iii) |
+| [0931-minimum-falling-path-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0931-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Ayushmaan06/LeetHub/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushmaan06/LeetHub/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1022-unique-paths-iii) |
@@ -1414,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Ayushmaan06/LeetHub/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Ayushmaan06/LeetHub/tree/master/0868-push-dominoes) |
+| [0931-minimum-falling-path-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0931-minimum-falling-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
