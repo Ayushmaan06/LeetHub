@@ -1,26 +1,19 @@
 class Solution {
 public:
-    int coinChange(vector<int>& coins, int amount) {
-        int n = coins.size();
-        vector<vector<int>> dp(n + 1, vector<int>(amount + 1, INT_MAX - 1));
-        for (int i = 0; i <= n; i++) {
-            dp[i][0] = 0;
+    int coinChange(vector<int>& c, int a) {
+        int n = c.size();
+        vector<vector<int>> dp(n, vector<int>(a + 1, INT_MAX));
+        for (int j = 0; j <= a; j++) {
+            if (j % c[0] == 0)dp[0][j] = j / c[0];
         }
-        for (int j = 1; j <= amount; j++) {
-            if (j % coins[0] == 0)
-                dp[1][j] = j / coins[0];
-        }
-        for (int i = 2; i <= n; i++) {
-            for (int j = 1; j <= amount; j++) {
-                if (coins[i - 1] <= j) {
-                    dp[i][j] = min(dp[i - 1][j], 1 + dp[i][j - coins[i - 1]]);
-                } else {
-                    dp[i][j] = dp[i - 1][j];
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j <= a; j++) {
+                dp[i][j] = dp[i - 1][j];
+                if (j >= c[i] && dp[i][j - c[i]] != INT_MAX) {
+                    dp[i][j] = min(dp[i][j], 1 + dp[i][j - c[i]]);
                 }
             }
         }
-
-        int result = dp[n][amount];
-        return (result >= INT_MAX - 1) ? -1 : result;
+        return dp[n - 1][a] == INT_MAX ? -1 : dp[n - 1][a];
     }
 };
