@@ -1,29 +1,20 @@
 class Solution {
 public:
-    bool isSorted(const std::vector<int>& vec) {
-        return std::is_sorted(vec.begin(), vec.end());
-    }
-
-    bool isSortedInReverse(const std::vector<int>& vec) {
-        return std::is_sorted(vec.begin(), vec.end(), std::greater<int>());
-    }
-
-    int maxProfit(vector<int>& prices) {
-        if (isSortedInReverse(prices)) {
-            return 0;  // No profit can be made if prices are decreasing
-        }
-        
-        if (isSorted(prices)) {
-            return prices.back() - prices.front();  // Buy at the beginning and sell at the end
-        }
-
-        int sum = 0;
-        for (int i = 1; i < prices.size(); i++) {
-            if (prices[i] > prices[i - 1]) {
-                sum += prices[i] - prices[i - 1];  // Sum up all increases
+    int maxProfit(vector<int>& p) {
+        int n = p.size();
+        vector<vector<int>> dp(n+1,vector<int>(2,0));
+        for(int i = n-1 ; i>=0 ; i--){
+            for(int j = 1 ; j>=0 ; j--){
+                if(j) dp[i][j]=max(-p[i] + dp[i+1][0] , dp[i+1][1]);
+                else  dp[i][j]=max( p[i] + dp[i+1][1] , dp[i+1][0]);
             }
         }
-        
-        return sum;
+        for(int i = 0 ; i <=n ; i++){
+            for(int j = 0 ; j<=1 ; j++){
+                cout<<dp[i][j]<<" ";
+            }
+            cout<<endl;
+        }
+        return dp[0][1];
     }
 };
