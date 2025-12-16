@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& nums) {
+    int lengthOfLIS(vector<int>& arr) {
         // set<int> t(nums.begin(),nums.end());
         // vector<int> r(t.begin(),t.end()) ;
         // // sort(r.begin(),r.end());
@@ -22,18 +22,35 @@ public:
         //     }
         // }
         // return dp[m][n];
-        if(nums.size() == 0) return nums.size();
-        vector<int> tails;
 
-        for(int i=0; i<nums.size(); i++) {
-            auto it = lower_bound(tails.begin(), tails.end(), nums[i]);
-            if(it == tails.end()) {
-                tails.push_back(nums[i]);
-            } else  {
-                *it = nums[i];
+
+
+        // if(nums.size() == 0) return nums.size();
+        // vector<int> tails;
+
+        // for(int i=0; i<nums.size(); i++) {
+        //     auto it = lower_bound(tails.begin(), tails.end(), nums[i]);
+        //     if(it == tails.end()) {
+        //         tails.push_back(nums[i]);
+        //     } else  {
+        //         *it = nums[i];
+        //     }
+        // }
+
+        // return (int) tails.size();
+
+int n = arr.size();
+
+        vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
+        for (int ind = n - 1; ind >= 0; ind--) {
+            for (int prev_ind = ind - 1; prev_ind >= -1; prev_ind--) {
+                int len = dp[ind + 1][prev_ind + 1]; 
+                if (prev_ind == -1 || arr[ind] > arr[prev_ind]) {
+                    len = max(len, 1 + dp[ind + 1][ind + 1]);
+                }
+                dp[ind][prev_ind + 1] = len;
             }
         }
-
-        return (int) tails.size();
+        return dp[0][0];
     }
 };
