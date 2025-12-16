@@ -2,30 +2,46 @@ class Solution {
 public:
     vector<int> largestDivisibleSubset(vector<int>& arr) {
         int n = arr.size();
-        sort(arr.begin(), arr.end()); 
-        vector<int> dp(n, 1);     // dp[i] = max length ending at i
-        vector<int> hash(n);      // hash[i] = index of previous element
-        int maxi = 1;             // Length of the longest subset found
-        int lastIndex = 0;        // The ending index of that subset
-        for(int i=0; i<n; i++) hash[i] = i;
-        for (int i = 0; i < n; i++) {
-            for (int prev = 0; prev < i; prev++) {
-                if (arr[i] % arr[prev] == 0 && 1 + dp[prev] > dp[i]) {
-                    dp[i] = 1 + dp[prev];
-                    hash[i] = prev; 
+        sort(arr.begin(), arr.end()); // 1. Sort is mandatory
+
+        // DP Table
+        vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
+
+        // 2. Fill the Table (Your original logic)
+        for (int ind = n - 1; ind >= 0; ind--) {
+            for (int prev_ind = ind - 1; prev_ind >= -1; prev_ind--) {
+                
+                // Option 1: Skip (Not Take)
+                int len = dp[ind + 1][prev_ind + 1]; 
+
+                // Option 2: Take (if valid)
+                if (prev_ind == -1 || arr[ind] % arr[prev_ind] == 0) {
+                    len = max(len, 1 + dp[ind + 1][ind + 1]);
                 }
-            }
-            if (dp[i] > maxi) {
-                maxi = dp[i];
-                lastIndex = i;
+                
+                dp[ind][prev_ind + 1] = len;
             }
         }
-        vector<int> temp;
-        temp.push_back(arr[lastIndex]);
-        while (hash[lastIndex] != lastIndex) {
-            lastIndex = hash[lastIndex];
-            temp.push_back(arr[lastIndex]);
+
+        // 3. Path Reconstruction (The "Hash Array" equivalent for 2D)
+        // We walk through the table to see which elements were picked.
+        vector<int> result;
+        int prev_ind = -1; 
+        
+        for (int ind = 0; ind < n; ind++) {
+            // "Current State" value in DP: dp[ind][prev_ind + 1]
+            // "Skip State" value in DP:    dp[ind + 1][prev_ind + 1]
+            
+            // If the value is the same, it means we SKIPPED this element (Not Take)
+            if (dp[ind][prev_ind + 1] == dp[ind + 1][prev_ind + 1]) {
+                continue; 
+            } else {
+                // If the value is different (larger), it means we TOOK this element
+                result.push_back(arr[ind]);
+                prev_ind = ind; // Update prev_ind for the next check
+            }
         }
-        return temp;
+        
+        return result;
     }
 };
