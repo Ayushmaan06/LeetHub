@@ -944,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ayushmaan06/LeetHub/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0624-maximum-distance-in-arrays) |
 | [0654-maximum-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0654-maximum-binary-tree) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushmaan06/LeetHub/tree/master/0713-subarray-product-less-than-k) |
@@ -1450,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/Ayushmaan06/LeetHub/tree/master/0650-2-keys-keyboard) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ayushmaan06/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
@@ -2226,6 +2228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Ayushmaan06/LeetHub/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ayushmaan06/LeetHub/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -2456,6 +2459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2280-count-good-triplets-in-an-array) |
