@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Ayushmaan06/LeetHub/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Ayushmaan06/LeetHub/tree/master/1044-find-common-characters) |
+| [1048-longest-string-chain](https://github.com/Ayushmaan06/LeetHub/tree/master/1048-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/Ayushmaan06/LeetHub/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ayushmaan06/LeetHub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1217-relative-sort-array) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Ayushmaan06/LeetHub/tree/master/1006-vowel-spellchecker) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Ayushmaan06/LeetHub/tree/master/1026-string-without-aaa-or-bbb) |
 | [1044-find-common-characters](https://github.com/Ayushmaan06/LeetHub/tree/master/1044-find-common-characters) |
+| [1048-longest-string-chain](https://github.com/Ayushmaan06/LeetHub/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1092-shortest-common-supersequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1143-longest-common-subsequence) |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Ayushmaan06/LeetHub/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Ayushmaan06/LeetHub/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/Ayushmaan06/LeetHub/tree/master/1048-longest-string-chain) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ayushmaan06/LeetHub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Ayushmaan06/LeetHub/tree/master/1063-best-sightseeing-pair) |
@@ -1461,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ayushmaan06/LeetHub/tree/master/1025-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/Ayushmaan06/LeetHub/tree/master/1048-longest-string-chain) |
 | [1063-best-sightseeing-pair](https://github.com/Ayushmaan06/LeetHub/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1086-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1092-shortest-common-supersequence) |
@@ -1543,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Ayushmaan06/LeetHub/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Ayushmaan06/LeetHub/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Ayushmaan06/LeetHub/tree/master/1048-longest-string-chain) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushmaan06/LeetHub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushmaan06/LeetHub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayushmaan06/LeetHub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1594,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ayushmaan06/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/Ayushmaan06/LeetHub/tree/master/1048-longest-string-chain) |
 | [1217-relative-sort-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1217-relative-sort-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayushmaan06/LeetHub/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1256-rank-transform-of-an-array) |
