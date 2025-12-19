@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2213-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2213-find-all-people-with-secret) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayushmaan06/LeetHub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Ayushmaan06/LeetHub/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ayushmaan06/LeetHub/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2213-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2213-find-all-people-with-secret) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ayushmaan06/LeetHub/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1916-find-center-of-star-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ayushmaan06/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2092-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ayushmaan06/LeetHub/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2213-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2213-find-all-people-with-secret) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ayushmaan06/LeetHub/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2213-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2213-find-all-people-with-secret) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ayushmaan06/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1621,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1752-arithmetic-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ayushmaan06/LeetHub/tree/master/1777-determine-if-two-strings-are-close) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2092-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ayushmaan06/LeetHub/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2213-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2213-find-all-people-with-secret) |
