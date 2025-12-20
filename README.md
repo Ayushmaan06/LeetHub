@@ -1037,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Ayushmaan06/LeetHub/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1524-string-matching-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushmaan06/LeetHub/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ayushmaan06/LeetHub/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayushmaan06/LeetHub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1490,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/1463-cherry-pickup-ii) |
 | [1503-reducing-dishes](https://github.com/Ayushmaan06/LeetHub/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/Ayushmaan06/LeetHub/tree/master/1511-count-number-of-teams) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushmaan06/LeetHub/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ayushmaan06/LeetHub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1616,6 +1618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ayushmaan06/LeetHub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/Ayushmaan06/LeetHub/tree/master/1503-reducing-dishes) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Ayushmaan06/LeetHub/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushmaan06/LeetHub/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushmaan06/LeetHub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ayushmaan06/LeetHub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
