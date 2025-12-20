@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Ayushmaan06/LeetHub/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Ayushmaan06/LeetHub/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ayushmaan06/LeetHub/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Ayushmaan06/LeetHub/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Ayushmaan06/LeetHub/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Ayushmaan06/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0268-missing-number) |
@@ -1589,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Ayushmaan06/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
