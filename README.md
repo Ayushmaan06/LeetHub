@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Ayushmaan06/LeetHub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ayushmaan06/LeetHub/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0039-combination-sum) |
@@ -1552,6 +1553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
