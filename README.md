@@ -978,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Ayushmaan06/LeetHub/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Ayushmaan06/LeetHub/tree/master/0876-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/Ayushmaan06/LeetHub/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Ayushmaan06/LeetHub/tree/master/0906-walking-robot-simulation) |
@@ -1570,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushmaan06/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Ayushmaan06/LeetHub/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Ayushmaan06/LeetHub/tree/master/0868-push-dominoes) |
+| [0881-boats-to-save-people](https://github.com/Ayushmaan06/LeetHub/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Ayushmaan06/LeetHub/tree/master/1048-longest-string-chain) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushmaan06/LeetHub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1619,6 +1621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/0780-max-chunks-to-make-sorted) |
 | [0807-custom-sort-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/Ayushmaan06/LeetHub/tree/master/0876-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/Ayushmaan06/LeetHub/tree/master/0881-boats-to-save-people) |
 | [0900-reordered-power-of-2](https://github.com/Ayushmaan06/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayushmaan06/LeetHub/tree/master/1018-largest-perimeter-triangle) |
@@ -1711,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Ayushmaan06/LeetHub/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Ayushmaan06/LeetHub/tree/master/0876-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/Ayushmaan06/LeetHub/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0955-delete-columns-to-make-sorted-ii) |
