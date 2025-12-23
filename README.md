@@ -1092,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/Ayushmaan06/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushmaan06/LeetHub/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2107-find-unique-binary-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2107-find-unique-binary-string) |
@@ -1354,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ayushmaan06/LeetHub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushmaan06/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ayushmaan06/LeetHub/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ayushmaan06/LeetHub/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1407,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Ayushmaan06/LeetHub/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Ayushmaan06/LeetHub/tree/master/2300-construct-string-with-repeat-limit) |
 | [2429-design-a-food-rating-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2434-design-a-number-container-system) |
@@ -1511,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ayushmaan06/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Ayushmaan06/LeetHub/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-two-best-non-overlapping-events) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushmaan06/LeetHub/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ayushmaan06/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ayushmaan06/LeetHub/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1640,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1752-arithmetic-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ayushmaan06/LeetHub/tree/master/1777-determine-if-two-strings-are-close) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ayushmaan06/LeetHub/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
