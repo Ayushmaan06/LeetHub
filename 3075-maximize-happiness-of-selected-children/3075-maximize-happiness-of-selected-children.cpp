@@ -8,6 +8,7 @@ public:
         while(k--){
             ll t=pq.top()-n;
             t=max(t,0LL);
+            if(t==0)return ans;
             pq.pop();
             n++;
             ans+=t;
