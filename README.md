@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Ayushmaan06/LeetHub/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0895-maximum-frequency-stack](https://github.com/Ayushmaan06/LeetHub/tree/master/0895-maximum-frequency-stack) |
 | [0900-reordered-power-of-2](https://github.com/Ayushmaan06/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/Ayushmaan06/LeetHub/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ayushmaan06/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -2082,6 +2083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/Ayushmaan06/LeetHub/tree/master/0895-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Ayushmaan06/LeetHub/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -2382,6 +2384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushmaan06/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Ayushmaan06/LeetHub/tree/master/0859-design-circular-deque) |
+| [0895-maximum-frequency-stack](https://github.com/Ayushmaan06/LeetHub/tree/master/0895-maximum-frequency-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -2524,6 +2527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0731-my-calendar-ii) |
+| [0895-maximum-frequency-stack](https://github.com/Ayushmaan06/LeetHub/tree/master/0895-maximum-frequency-stack) |
 | [2023-design-movie-rental-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2023-design-movie-rental-system) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ayushmaan06/LeetHub/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2280-count-good-triplets-in-an-array) |
