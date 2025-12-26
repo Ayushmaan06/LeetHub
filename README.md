@@ -813,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ayushmaan06/LeetHub/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Ayushmaan06/LeetHub/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ayushmaan06/LeetHub/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Ayushmaan06/LeetHub/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -2344,6 +2345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ayushmaan06/LeetHub/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Ayushmaan06/LeetHub/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ayushmaan06/LeetHub/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushmaan06/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/Ayushmaan06/LeetHub/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/2571-find-the-pivot-integer) |
