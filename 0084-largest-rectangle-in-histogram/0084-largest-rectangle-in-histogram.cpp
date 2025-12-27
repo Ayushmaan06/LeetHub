@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> nextSmallerElementLeft(const vector<int>& nums) {
+vector<int> nextSmallerElementLeft(const vector<int>& nums) {
         int n = nums.size();
         vector<int> result(n, -1);
         stack<int> s;
