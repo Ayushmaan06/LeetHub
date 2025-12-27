@@ -907,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushmaan06/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayushmaan06/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Ayushmaan06/LeetHub/tree/master/0118-pascals-triangle) |
@@ -2072,6 +2073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ayushmaan06/LeetHub/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayushmaan06/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayushmaan06/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
@@ -2551,6 +2553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayushmaan06/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0654-maximum-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Ayushmaan06/LeetHub/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/0780-max-chunks-to-make-sorted) |
