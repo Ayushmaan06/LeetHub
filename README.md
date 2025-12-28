@@ -906,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushmaan06/LeetHub/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmaan06/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1289,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushmaan06/LeetHub/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Ayushmaan06/LeetHub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0407-trapping-rain-water-ii) |
@@ -1350,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Ayushmaan06/LeetHub/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
