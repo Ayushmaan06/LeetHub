@@ -1036,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ayushmaan06/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ayushmaan06/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/Ayushmaan06/LeetHub/tree/master/1364-tuple-with-same-product) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Ayushmaan06/LeetHub/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Ayushmaan06/LeetHub/tree/master/1395-minimum-time-visiting-all-points) |
@@ -1311,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Ayushmaan06/LeetHub/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayushmaan06/LeetHub/tree/master/1253-sort-the-matrix-diagonally) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Ayushmaan06/LeetHub/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ayushmaan06/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayushmaan06/LeetHub/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -1361,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ayushmaan06/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ayushmaan06/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushmaan06/LeetHub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayushmaan06/LeetHub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
