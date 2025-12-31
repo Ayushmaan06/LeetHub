@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ayushmaan06/LeetHub/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ayushmaan06/LeetHub/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/2035-count-sub-islands) |
 | [2092-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Ayushmaan06/LeetHub/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ayushmaan06/LeetHub/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/2035-count-sub-islands) |
 | [2092-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ayushmaan06/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ayushmaan06/LeetHub/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ayushmaan06/LeetHub/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/2035-count-sub-islands) |
 | [2092-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1108,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Ayushmaan06/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ayushmaan06/LeetHub/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushmaan06/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2023-design-movie-rental-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2023-design-movie-rental-system) |
@@ -1337,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Ayushmaan06/LeetHub/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ayushmaan06/LeetHub/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Ayushmaan06/LeetHub/tree/master/2145-grid-game) |
@@ -1389,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ayushmaan06/LeetHub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ayushmaan06/LeetHub/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushmaan06/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
