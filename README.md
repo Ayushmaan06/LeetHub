@@ -1101,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Ayushmaan06/LeetHub/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/Ayushmaan06/LeetHub/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1834-single-threaded-cpu](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-single-threaded-cpu) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Ayushmaan06/LeetHub/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayushmaan06/LeetHub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -1448,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ayushmaan06/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
+| [1834-single-threaded-cpu](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-single-threaded-cpu) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ayushmaan06/LeetHub/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1690,6 +1692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushmaan06/LeetHub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1752-arithmetic-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ayushmaan06/LeetHub/tree/master/1777-determine-if-two-strings-are-close) |
+| [1834-single-threaded-cpu](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2092-find-all-people-with-secret) |
