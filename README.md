@@ -980,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Ayushmaan06/LeetHub/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Ayushmaan06/LeetHub/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/Ayushmaan06/LeetHub/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0624-maximum-distance-in-arrays) |
 | [0654-maximum-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -1858,6 +1859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Ayushmaan06/LeetHub/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Ayushmaan06/LeetHub/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Ayushmaan06/LeetHub/tree/master/0432-all-oone-data-structure) |
+| [0622-design-circular-queue](https://github.com/Ayushmaan06/LeetHub/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Ayushmaan06/LeetHub/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Ayushmaan06/LeetHub/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -2112,6 +2114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushmaan06/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Ayushmaan06/LeetHub/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Ayushmaan06/LeetHub/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Ayushmaan06/LeetHub/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/Ayushmaan06/LeetHub/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0954-maximum-sum-circular-subarray) |
@@ -2452,6 +2455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Ayushmaan06/LeetHub/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Ayushmaan06/LeetHub/tree/master/0432-all-oone-data-structure) |
+| [0622-design-circular-queue](https://github.com/Ayushmaan06/LeetHub/tree/master/0622-design-circular-queue) |
 | [0729-my-calendar-i](https://github.com/Ayushmaan06/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushmaan06/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
