@@ -1850,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Ayushmaan06/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayushmaan06/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1921,6 +1922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Ayushmaan06/LeetHub/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0060-permutation-sequence) |
@@ -2087,6 +2089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ayushmaan06/LeetHub/tree/master/0050-powx-n) |
