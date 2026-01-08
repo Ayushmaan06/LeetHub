@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayushmaan06/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ayushmaan06/LeetHub/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmaan06/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Ayushmaan06/LeetHub/tree/master/0684-redundant-connection) |
@@ -2244,6 +2245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Ayushmaan06/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayushmaan06/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmaan06/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
@@ -2305,6 +2307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Ayushmaan06/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayushmaan06/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmaan06/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
@@ -2577,6 +2580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushmaan06/LeetHub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -2586,6 +2590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
