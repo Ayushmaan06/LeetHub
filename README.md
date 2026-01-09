@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Ayushmaan06/LeetHub/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Ayushmaan06/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Ayushmaan06/LeetHub/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ayushmaan06/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ayushmaan06/LeetHub/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/Ayushmaan06/LeetHub/tree/master/0971-shortest-bridge) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Ayushmaan06/LeetHub/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Ayushmaan06/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Ayushmaan06/LeetHub/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ayushmaan06/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/Ayushmaan06/LeetHub/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushmaan06/LeetHub/tree/master/0999-regions-cut-by-slashes) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ayushmaan06/LeetHub/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0807-custom-sort-string) |
 | [0840-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ayushmaan06/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Ayushmaan06/LeetHub/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -2254,6 +2257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushmaan06/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ayushmaan06/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ayushmaan06/LeetHub/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -2316,6 +2320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushmaan06/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ayushmaan06/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ayushmaan06/LeetHub/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
