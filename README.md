@@ -1036,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0971-shortest-bridge](https://github.com/Ayushmaan06/LeetHub/tree/master/0971-shortest-bridge) |
+| [0978-longest-turbulent-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0978-longest-turbulent-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushmaan06/LeetHub/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Ayushmaan06/LeetHub/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Ayushmaan06/LeetHub/tree/master/1006-vowel-spellchecker) |
@@ -1554,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0978-longest-turbulent-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0978-longest-turbulent-subarray) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ayushmaan06/LeetHub/tree/master/1025-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/Ayushmaan06/LeetHub/tree/master/1048-longest-string-chain) |
@@ -2388,6 +2390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Ayushmaan06/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Ayushmaan06/LeetHub/tree/master/0940-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/0978-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushmaan06/LeetHub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
