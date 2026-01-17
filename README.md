@@ -2591,6 +2591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ayushmaan06/LeetHub/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3133-minimum-array-end](https://github.com/Ayushmaan06/LeetHub/tree/master/3133-minimum-array-end) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3307-find-the-maximum-sum-of-node-values) |
