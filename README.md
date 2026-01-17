@@ -736,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ayushmaan06/LeetHub/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ayushmaan06/LeetHub/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Ayushmaan06/LeetHub/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ayushmaan06/LeetHub/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Ayushmaan06/LeetHub/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ayushmaan06/LeetHub/tree/master/0076-minimum-window-substring) |
@@ -1904,6 +1905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Ayushmaan06/LeetHub/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Ayushmaan06/LeetHub/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Ayushmaan06/LeetHub/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ayushmaan06/LeetHub/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1962,6 +1964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ayushmaan06/LeetHub/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ayushmaan06/LeetHub/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ayushmaan06/LeetHub/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Ayushmaan06/LeetHub/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayushmaan06/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -2548,6 +2551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayushmaan06/LeetHub/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Ayushmaan06/LeetHub/tree/master/0201-bitwise-and-of-numbers-range) |
