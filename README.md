@@ -1132,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayushmaan06/LeetHub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ayushmaan06/LeetHub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ayushmaan06/LeetHub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Ayushmaan06/LeetHub/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ayushmaan06/LeetHub/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -1835,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ayushmaan06/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Ayushmaan06/LeetHub/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ayushmaan06/LeetHub/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushmaan06/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
