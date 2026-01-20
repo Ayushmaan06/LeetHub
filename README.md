@@ -1022,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-car-fleet) |
 | [0854-making-a-large-island](https://github.com/Ayushmaan06/LeetHub/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Ayushmaan06/LeetHub/tree/master/0859-design-circular-deque) |
+| [0867-transpose-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0867-transpose-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Ayushmaan06/LeetHub/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Ayushmaan06/LeetHub/tree/master/0881-boats-to-save-people) |
@@ -1354,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Ayushmaan06/LeetHub/tree/master/0854-making-a-large-island) |
+| [0867-transpose-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0867-transpose-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Ayushmaan06/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
@@ -1916,6 +1918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Ayushmaan06/LeetHub/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ayushmaan06/LeetHub/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0867-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Ayushmaan06/LeetHub/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Ayushmaan06/LeetHub/tree/master/1642-water-bottles) |
