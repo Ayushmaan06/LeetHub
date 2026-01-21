@@ -1584,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1092-shortest-common-supersequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Ayushmaan06/LeetHub/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/Ayushmaan06/LeetHub/tree/master/1117-as-far-from-land-as-possible) |
+| [1137-n-th-tribonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Ayushmaan06/LeetHub/tree/master/1196-filling-bookcase-shelves) |
@@ -2014,6 +2015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ayushmaan06/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1086-divisor-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1086-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/1240-stone-game-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ayushmaan06/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Ayushmaan06/LeetHub/tree/master/1395-minimum-time-visiting-all-points) |
@@ -2234,6 +2236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0787-sliding-puzzle](https://github.com/Ayushmaan06/LeetHub/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Ayushmaan06/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ayushmaan06/LeetHub/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ayushmaan06/LeetHub/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
