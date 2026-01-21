@@ -907,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Ayushmaan06/LeetHub/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Ayushmaan06/LeetHub/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ayushmaan06/LeetHub/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1132,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1834-single-threaded-cpu](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-single-threaded-cpu) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1876-map-of-highest-peak](https://github.com/Ayushmaan06/LeetHub/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayushmaan06/LeetHub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ayushmaan06/LeetHub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -2031,6 +2033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Ayushmaan06/LeetHub/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ayushmaan06/LeetHub/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ayushmaan06/LeetHub/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ayushmaan06/LeetHub/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Ayushmaan06/LeetHub/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -2591,6 +2594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1940-maximum-xor-for-each-query](https://github.com/Ayushmaan06/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ayushmaan06/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -2720,6 +2724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Ayushmaan06/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Ayushmaan06/LeetHub/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Ayushmaan06/LeetHub/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -2790,6 +2795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayushmaan06/LeetHub/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Ayushmaan06/LeetHub/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2324-find-triangular-sum-of-an-array) |
