@@ -49,16 +49,9 @@ public:
                 else z++;
             }
         }
-        // unordered_set<int> uniqueIslands;
-        // for (int i = 0; i < n; i++) {
-        //     for (int j = 0; j < m; j++) {
-        //         if (grid[i][j] == '1') {
-        //             uniqueIslands.insert(dsu.find(i * m + j));
-        //         }
-        //     }
-        // }
         int ans=0;
         for(int i = 0 ; i < m*n ; i++)if(dsu.find(i)==i)ans++;
+        cout<<ans<<z;
         return ans-z;
     }
 };
