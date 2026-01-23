@@ -2866,4 +2866,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Ayushmaan06/LeetHub/tree/master/0997-find-the-town-judge) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
