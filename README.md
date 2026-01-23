@@ -1263,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ayushmaan06/LeetHub/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ayushmaan06/LeetHub/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ayushmaan06/LeetHub/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -2467,6 +2468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ayushmaan06/LeetHub/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3463-alternating-groups-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3463-alternating-groups-i) |
@@ -2626,6 +2628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ayushmaan06/LeetHub/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3133-minimum-array-end](https://github.com/Ayushmaan06/LeetHub/tree/master/3133-minimum-array-end) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
