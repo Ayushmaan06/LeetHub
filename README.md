@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ayushmaan06/LeetHub/tree/master/1207-delete-nodes-and-return-forest) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Ayushmaan06/LeetHub/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1300-critical-connections-in-a-network](https://github.com/Ayushmaan06/LeetHub/tree/master/1300-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Ayushmaan06/LeetHub/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ayushmaan06/LeetHub/tree/master/1197-parsing-a-boolean-expression) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Ayushmaan06/LeetHub/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1250-longest-common-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayushmaan06/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Ayushmaan06/LeetHub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Ayushmaan06/LeetHub/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1240-stone-game-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/1240-stone-game-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayushmaan06/LeetHub/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1256-rank-transform-of-an-array) |
@@ -2690,6 +2693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ayushmaan06/LeetHub/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Ayushmaan06/LeetHub/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
