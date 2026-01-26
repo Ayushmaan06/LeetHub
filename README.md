@@ -1078,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Ayushmaan06/LeetHub/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/Ayushmaan06/LeetHub/tree/master/1196-filling-bookcase-shelves) |
+| [1200-minimum-absolute-difference](https://github.com/Ayushmaan06/LeetHub/tree/master/1200-minimum-absolute-difference) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ayushmaan06/LeetHub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1747,6 +1748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Ayushmaan06/LeetHub/tree/master/1048-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/Ayushmaan06/LeetHub/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1217-relative-sort-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayushmaan06/LeetHub/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1256-rank-transform-of-an-array) |
