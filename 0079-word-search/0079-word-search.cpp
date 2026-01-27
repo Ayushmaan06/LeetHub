@@ -1,42 +1,31 @@
 class Solution {
 public:
-    bool solve(int r, int c, int index, vector<vector<char>>& board, string& word, vector<vector<bool>>& visited) {
-        // Base cases
-        if (index == word.length()) {
-            return true;
+    bool flag=false;
+    void solve(vector<vector<char>>& b, string word,int i , int r, int c){
+        if(flag)return;
+        if(r<0 || r >= b.size() || c<0 || c>= b[0].size()) return ;
+        if(i==word.length()-1 && word[i] == b[r][c]){flag=true;return;}
+        if(word[i] == b[r][c]){
+            char temp = b[r][c];
+            b[r][c]='.';
+            solve(b,word,i+1,r,c+1);
+            solve(b,word,i+1,r,c-1);
+            solve(b,word,i+1,r+1,c);
+            solve(b,word,i+1,r-1,c);
+            b[r][c]=temp;
         }
-        if (r < 0 || c < 0 || r >= board.size() || c >= board[0].size() || visited[r][c] || board[r][c] != word[index]) {
-            return false;
-        }
-
-        // Mark the cell as visited
-        visited[r][c] = true;
-
-        // Explore all possible directions
-        bool found = solve(r - 1, c, index + 1, board, word, visited) || // Up
-                     solve(r + 1, c, index + 1, board, word, visited) || // Down
-                     solve(r, c - 1, index + 1, board, word, visited) || // Left
-                     solve(r, c + 1, index + 1, board, word, visited);   // Right
-
-        // Backtrack
-        visited[r][c] = false;
-
-        return found;
+        return;
     }
-
-    bool exist(vector<vector<char>>& board, string word) {
-        int rows = board.size();
-        int cols = board[0].size();
-        vector<vector<bool>> visited(rows, vector<bool>(cols, false));
-
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (board[i][j] == word[0] && solve(i, j, 0, board, word, visited)) {
-                    return true;
+    bool exist(vector<vector<char>>& b, string word) {
+        int n = b.size(),m=b[0].size();
+        for(int i = 0 ; i < n ; i++){
+            for(int j = 0 ; j < m ; j++){
+                if(b[i][j] == word[0]){
+                    solve(b,word,0,i,j);
+                    if(flag)return flag;
                 }
             }
         }
-
-        return false;
+        return flag;
     }
 };
