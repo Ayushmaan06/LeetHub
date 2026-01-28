@@ -997,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ayushmaan06/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushmaan06/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ayushmaan06/LeetHub/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Ayushmaan06/LeetHub/tree/master/0463-island-perimeter) |
@@ -1373,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ayushmaan06/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Ayushmaan06/LeetHub/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Ayushmaan06/LeetHub/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0542-01-matrix) |
@@ -2290,6 +2292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0948-sort-an-array) |
@@ -2330,6 +2333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushmaan06/LeetHub/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ayushmaan06/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayushmaan06/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0543-diameter-of-binary-tree) |
