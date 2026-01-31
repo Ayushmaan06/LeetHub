@@ -741,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushmaan06/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ayushmaan06/LeetHub/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0044-wildcard-matching) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Ayushmaan06/LeetHub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ayushmaan06/LeetHub/tree/master/0037-sudoku-solver) |
@@ -2724,6 +2726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ayushmaan06/LeetHub/tree/master/0440-k-th-smallest-in-lexicographical-order) |
