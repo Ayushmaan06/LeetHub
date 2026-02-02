@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ayushmaan06/LeetHub/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2915-count-of-interesting-subarrays) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ayushmaan06/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1283,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ayushmaan06/LeetHub/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ayushmaan06/LeetHub/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ayushmaan06/LeetHub/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ayushmaan06/LeetHub/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1547,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/Ayushmaan06/LeetHub/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ayushmaan06/LeetHub/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ayushmaan06/LeetHub/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -2511,6 +2514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ayushmaan06/LeetHub/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
