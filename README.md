@@ -1352,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3637-trionic-array-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3639-zero-array-transformation-i) |
+| [3640-trionic-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ayushmaan06/LeetHub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1681,6 +1682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ayushmaan06/LeetHub/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Ayushmaan06/LeetHub/tree/master/3637-count-number-of-balanced-permutations) |
+| [3640-trionic-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ayushmaan06/LeetHub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ayushmaan06/LeetHub/tree/master/3651-minimum-cost-path-with-teleportations) |
