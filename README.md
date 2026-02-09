@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Ayushmaan06/LeetHub/tree/master/0355-design-twitter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/Ayushmaan06/LeetHub/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushmaan06/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ayushmaan06/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushmaan06/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ayushmaan06/LeetHub/tree/master/0455-assign-cookies) |
@@ -2673,6 +2675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Ayushmaan06/LeetHub/tree/master/0342-power-of-four) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/Ayushmaan06/LeetHub/tree/master/0476-number-complement) |
 | [0756-pyramid-transition-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0756-pyramid-transition-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
@@ -2757,6 +2760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ayushmaan06/LeetHub/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Ayushmaan06/LeetHub/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/2494-sum-of-prefix-scores-of-strings) |
