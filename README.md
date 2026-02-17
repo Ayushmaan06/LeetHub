@@ -928,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ayushmaan06/LeetHub/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/Ayushmaan06/LeetHub/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0756-pyramid-transition-matrix) |
@@ -2691,6 +2692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Ayushmaan06/LeetHub/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Ayushmaan06/LeetHub/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/Ayushmaan06/LeetHub/tree/master/0476-number-complement) |
 | [0756-pyramid-transition-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0756-pyramid-transition-matrix) |
