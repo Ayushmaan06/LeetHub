@@ -2699,6 +2699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ayushmaan06/LeetHub/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/Ayushmaan06/LeetHub/tree/master/0868-binary-gap) |
 | [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1022-unique-paths-iii) |
