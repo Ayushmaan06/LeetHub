@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ayushmaan06/LeetHub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushmaan06/LeetHub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayushmaan06/LeetHub/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ayushmaan06/LeetHub/tree/master/1464-reduce-array-size-to-the-half) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushmaan06/LeetHub/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1500-count-largest-group](https://github.com/Ayushmaan06/LeetHub/tree/master/1500-count-largest-group) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Ayushmaan06/LeetHub/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1405-longest-happy-string](https://github.com/Ayushmaan06/LeetHub/tree/master/1405-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushmaan06/LeetHub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayushmaan06/LeetHub/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushmaan06/LeetHub/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ayushmaan06/LeetHub/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -2705,6 +2707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Ayushmaan06/LeetHub/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ayushmaan06/LeetHub/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayushmaan06/LeetHub/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushmaan06/LeetHub/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -2760,6 +2763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayushmaan06/LeetHub/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -2776,6 +2780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0572-subtree-of-another-tree) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayushmaan06/LeetHub/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
