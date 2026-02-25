@@ -1125,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ayushmaan06/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Ayushmaan06/LeetHub/tree/master/1364-tuple-with-same-product) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Ayushmaan06/LeetHub/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Ayushmaan06/LeetHub/tree/master/1395-minimum-time-visiting-all-points) |
@@ -1813,6 +1814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ayushmaan06/LeetHub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1333-sort-the-jumbled-numbers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ayushmaan06/LeetHub/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ayushmaan06/LeetHub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/Ayushmaan06/LeetHub/tree/master/1503-reducing-dishes) |
@@ -2201,6 +2203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Ayushmaan06/LeetHub/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Ayushmaan06/LeetHub/tree/master/1364-tuple-with-same-product) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Ayushmaan06/LeetHub/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1396-count-servers-that-communicate](https://github.com/Ayushmaan06/LeetHub/tree/master/1396-count-servers-that-communicate) |
@@ -2708,6 +2711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1022-unique-paths-iii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Ayushmaan06/LeetHub/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ayushmaan06/LeetHub/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayushmaan06/LeetHub/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
