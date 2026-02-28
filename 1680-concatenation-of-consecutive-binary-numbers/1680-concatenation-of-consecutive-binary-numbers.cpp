@@ -1,15 +1,9 @@
 class Solution {
 public:
+    const int mod = 1e9 + 7;
     int concatenatedBinary(int n) {
-        if(n == 1) return 1;
-        int MOD = 1e9 + 7;
-        long long p = 1;
-        for(int i = 2; i <= n; i++){
-            int x = 32 - __builtin_clz(i);  
-            p = (p << x) % MOD;           
-            p = (p + i) % MOD;
-        }
-        
-        return (int)p;
+        long result = 0;
+        for (int i = 1; i <= n; ++i) result = ((result << (std::bit_width((unsigned)i))) | i) % mod;
+        return result;
     }
 };
