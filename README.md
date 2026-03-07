@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ayushmaan06/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/Ayushmaan06/LeetHub/tree/master/1871-jump-game-vii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ayushmaan06/LeetHub/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ayushmaan06/LeetHub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ayushmaan06/LeetHub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1923-sentence-similarity-iii) |
@@ -1689,6 +1690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ayushmaan06/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/Ayushmaan06/LeetHub/tree/master/1871-jump-game-vii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ayushmaan06/LeetHub/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Ayushmaan06/LeetHub/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-two-best-non-overlapping-events) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushmaan06/LeetHub/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -2557,6 +2559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Ayushmaan06/LeetHub/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Ayushmaan06/LeetHub/tree/master/1813-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/Ayushmaan06/LeetHub/tree/master/1871-jump-game-vii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ayushmaan06/LeetHub/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushmaan06/LeetHub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ayushmaan06/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
