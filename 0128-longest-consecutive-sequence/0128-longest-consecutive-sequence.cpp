@@ -59,18 +59,15 @@ public:
         int j =0;
         if(nums.size()==0)return 0;
         unordered_map<int,int> mp;
-        for(int i : nums){
+        for(int i : nums)
             if(mp.find(i)==mp.end())mp[i]=j++;
-        }
         DSU dsu(j);
         for(int i : nums){
             if(mp.find(i-1)!=mp.end())dsu.unionBySize(mp[i],mp[i-1]);
             if(mp.find(i+1)!=mp.end())dsu.unionBySize(mp[i],mp[i+1]);
         }
         int ans=-1;
-        for(int i : nums){
-            ans=max(ans,dsu.getSize(mp[i]));
-        }
+        for(int i : nums)ans=max(ans,dsu.getSize(mp[i]));
         return ans;
     }
 };
