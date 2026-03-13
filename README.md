@@ -969,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Ayushmaan06/LeetHub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ayushmaan06/LeetHub/tree/master/0037-sudoku-solver) |
@@ -1758,6 +1759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0165-compare-version-numbers) |
@@ -1797,6 +1799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ayushmaan06/LeetHub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ayushmaan06/LeetHub/tree/master/0056-merge-intervals) |
