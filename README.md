@@ -765,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ayushmaan06/LeetHub/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ayushmaan06/LeetHub/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Ayushmaan06/LeetHub/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ayushmaan06/LeetHub/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ayushmaan06/LeetHub/tree/master/0131-palindrome-partitioning) |
@@ -1758,6 +1759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0287-find-the-duplicate-number) |
