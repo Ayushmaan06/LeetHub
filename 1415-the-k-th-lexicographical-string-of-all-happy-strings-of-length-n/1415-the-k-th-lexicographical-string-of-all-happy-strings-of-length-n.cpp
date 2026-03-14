@@ -1,17 +1,30 @@
 class Solution {
 public:
     string getHappyString(int n, int k) {
-        int sz=3*(1<<(n-1));
-        if (k>sz) return "";
-        auto [q, r]=div(k-1, 1<<(n-1));// k-1
-        string s(n, ' ');
-        s[0]='a'+q;
-        bitset<9> bin(r);
-        array<char, 2> xx[3]={{'b', 'c'}, {'a', 'c'}, {'a', 'b'}};
-        for(int i=n-2; i>=0; i--){
-            char idx=s[n-2-i]-'a';
-            s[n-1-i]=(bin[i])?xx[idx][1]:xx[idx][0];
+        int perCharCount=pow(2,n-1);
+        if(3*perCharCount<k)return "";
+        string ans="";
+        if(k<=perCharCount){
+            ans.push_back('a');
+        }else if(k<=2*perCharCount){
+            ans.push_back('b');
+            k-=perCharCount;
+        }else{
+            ans.push_back('c');
+            k-=2*perCharCount;
         }
-        return s;
+        vector<string>options{"bc","ac","ab"};
+        for(int i=1;i<n;i++){
+            perCharCount/=2;
+            // perCharCount=pow(2,n-i-1);
+            string option=options[ans.back()-'a'];
+            if(k<=perCharCount){
+                ans.push_back(option[0]);
+            }else{
+                ans.push_back(option[1]);
+                k-=perCharCount;
+            }
+        }
+        return ans;
     }
 };
