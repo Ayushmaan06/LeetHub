@@ -978,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Ayushmaan06/LeetHub/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ayushmaan06/LeetHub/tree/master/0049-group-anagrams) |
@@ -1614,6 +1615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0055-jump-game) |
@@ -1763,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0202-happy-number) |
@@ -2317,6 +2320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Ayushmaan06/LeetHub/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmaan06/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ayushmaan06/LeetHub/tree/master/0085-maximal-rectangle) |
@@ -2887,6 +2891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmaan06/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ayushmaan06/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0654-maximum-binary-tree) |
