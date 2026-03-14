@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Ayushmaan06/LeetHub/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayushmaan06/LeetHub/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1405-longest-happy-string](https://github.com/Ayushmaan06/LeetHub/tree/master/1405-longest-happy-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ayushmaan06/LeetHub/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushmaan06/LeetHub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayushmaan06/LeetHub/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushmaan06/LeetHub/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Ayushmaan06/LeetHub/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Ayushmaan06/LeetHub/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ayushmaan06/LeetHub/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ayushmaan06/LeetHub/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/Ayushmaan06/LeetHub/tree/master/1980-find-unique-binary-string) |
