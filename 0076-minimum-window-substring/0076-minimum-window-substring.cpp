@@ -1,29 +1,34 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        unordered_map<char, int> freq;
-        for(char c : t) {
-            freq[c]++;
-        }
-
-        int l = 0, r = 0, minLen = INT_MAX, si = -1, cnt = 0;
-
-        while(r < s.size()) {
-            if(freq[s[r]] > 0) cnt++;
-            freq[s[r]]--;
-
-            while(cnt == t.size()) {
-                if(r - l + 1 < minLen) {
-                    minLen = r - l + 1;
-                    si = l;
-                }
-                freq[s[l]]++;
-                if(freq[s[l]] > 0) cnt--;
-                l++;
+        unordered_map<char,int> mp;
+        for(char c : t)mp[c]++;
+        int i=0,j=0,n=s.length();
+        while(i < n && mp.find(s[i]) == mp.end()) i++; 
+        j=i;
+        int tc=t.length();
+        queue<int> q;
+        vector<pair<int,int>> vp;
+        while(j<n){
+            if(mp.find(s[j])!=mp.end()){
+                if(mp[s[j]] > 0) tc--;
+                mp[s[j]]--;
+                q.push(j);
             }
-            r++;
+            while(tc==0){
+                vp.push_back({j-i+1,i});
+                
+                mp[s[i]]++;
+                if(mp[s[i]] > 0) tc++; 
+                q.pop(); 
+                
+                if(!q.empty()) i = q.front();
+                else i++; 
+            }
+            j++;
         }
-
-        return si == -1 ? "" : s.substr(si, minLen);
+        if(vp.empty()) return "";
+        sort(vp.begin(),vp.end());
+        return s.substr(vp[0].second,vp[0].first);
     }
 };
