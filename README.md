@@ -1190,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1720-crawler-log-folder](https://github.com/Ayushmaan06/LeetHub/tree/master/1720-crawler-log-folder) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ayushmaan06/LeetHub/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushmaan06/LeetHub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1752-arithmetic-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
@@ -1469,6 +1470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Ayushmaan06/LeetHub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ayushmaan06/LeetHub/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ayushmaan06/LeetHub/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Ayushmaan06/LeetHub/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/Ayushmaan06/LeetHub/tree/master/1895-largest-magic-square) |
@@ -1862,6 +1864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ayushmaan06/LeetHub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayushmaan06/LeetHub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ayushmaan06/LeetHub/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushmaan06/LeetHub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1752-arithmetic-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ayushmaan06/LeetHub/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1973,6 +1976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ayushmaan06/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ayushmaan06/LeetHub/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ayushmaan06/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-minimum-number-of-people-to-teach) |
