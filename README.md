@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Ayushmaan06/LeetHub/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Ayushmaan06/LeetHub/tree/master/2573-find-the-string-with-lcp) |
 | [2580-circular-sentence](https://github.com/Ayushmaan06/LeetHub/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Ayushmaan06/LeetHub/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ayushmaan06/LeetHub/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1294,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayushmaan06/LeetHub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2573-find-the-string-with-lcp](https://github.com/Ayushmaan06/LeetHub/tree/master/2573-find-the-string-with-lcp) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushmaan06/LeetHub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ayushmaan06/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1497,6 +1499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ayushmaan06/LeetHub/tree/master/2472-build-a-matrix-with-conditions) |
+| [2573-find-the-string-with-lcp](https://github.com/Ayushmaan06/LeetHub/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ayushmaan06/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/Ayushmaan06/LeetHub/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ayushmaan06/LeetHub/tree/master/2685-first-completely-painted-row-or-column) |
@@ -1748,6 +1751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ayushmaan06/LeetHub/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2573-find-the-string-with-lcp](https://github.com/Ayushmaan06/LeetHub/tree/master/2573-find-the-string-with-lcp) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Ayushmaan06/LeetHub/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2755-extra-characters-in-a-string) |
@@ -2020,6 +2024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushmaan06/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Ayushmaan06/LeetHub/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ayushmaan06/LeetHub/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Ayushmaan06/LeetHub/tree/master/2573-find-the-string-with-lcp) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Ayushmaan06/LeetHub/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -3091,4 +3096,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/0200-number-of-islands) |
+| [2573-find-the-string-with-lcp](https://github.com/Ayushmaan06/LeetHub/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
