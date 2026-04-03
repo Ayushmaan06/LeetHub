@@ -1424,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Ayushmaan06/LeetHub/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ayushmaan06/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ayushmaan06/LeetHub/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayushmaan06/LeetHub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -1582,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3427-special-array-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3643-zero-array-transformation-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayushmaan06/LeetHub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
@@ -1777,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ayushmaan06/LeetHub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ayushmaan06/LeetHub/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayushmaan06/LeetHub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ayushmaan06/LeetHub/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Shortest Path
 |  |
@@ -1954,6 +1957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushmaan06/LeetHub/tree/master/3634-minimum-removals-to-balance-array) |
 | [3647-zero-array-transformation-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ayushmaan06/LeetHub/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayushmaan06/LeetHub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ayushmaan06/LeetHub/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
