@@ -2111,6 +2111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayushmaan06/LeetHub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Ayushmaan06/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2058-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2069-walking-robot-simulation-ii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ayushmaan06/LeetHub/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayushmaan06/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -2758,6 +2759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1622-fancy-sequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2434-design-a-number-container-system) |
