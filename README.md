@@ -757,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushmaan06/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0022-generate-parentheses) |
@@ -1657,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0044-wildcard-matching) |
@@ -2339,6 +2341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ayushmaan06/LeetHub/tree/master/0050-powx-n) |
