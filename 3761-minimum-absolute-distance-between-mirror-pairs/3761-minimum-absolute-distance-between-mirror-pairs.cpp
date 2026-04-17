@@ -1,23 +1,39 @@
 class Solution {
 public:
     int minMirrorPairDistance(vector<int>& nums) {
-        unordered_map<int,vector<int>> mp;int n = nums.size();
-        for(int i = 0 ; i < n ; i++)
-            mp[nums[i]].push_back(i);
-        int ans=INT_MAX,j=0;
-        for(int i : nums){
-            string s = to_string(i);
-            reverse(s.begin(), s.end());
-            int k = stoi(s);
-            if(mp.find(k) != mp.end()){
-                auto it = upper_bound(mp[k].begin(), mp[k].end(), j);
-                if(it != mp[k].end()){
-                    int x = *it;
-                    ans = min(ans, abs(x - j));
-                }
+        int n = nums.size();
+        int minDist = INT_MAX;
+        
+        // Map from reversed number to the most recent index where it appeared as reverse(nums[i])
+        // Actually we need: for each index i, we add reverse(nums[i]) -> i
+        // Then for j, we check if nums[j] is in the map
+        
+        unordered_map<int, int> revToIndex; // reverse(nums[i]) -> index i
+        
+        for (int j = 0; j < n; j++) {
+            // Check if there's i < j where reverse(nums[i]) == nums[j]
+            if (revToIndex.count(nums[j])) {
+                int i = revToIndex[nums[j]];
+                minDist = min(minDist, j - i); // j > i, so abs(j-i) = j-i
             }
-            j++;
+            
+            // Add current number's reverse for future pairs
+            int rev = reverseNum(nums[j]);
+            // Only keep the most recent index to minimize distance
+            // Actually, we should keep the largest index (most recent) to minimize j-i for future j
+            revToIndex[rev] = j;
         }
-        return ans==INT_MAX?-1:ans;
+        
+        return minDist == INT_MAX ? -1 : minDist;
+    }
+    
+private:
+    int reverseNum(int x) {
+        int rev = 0;
+        while (x > 0) {
+            rev = rev * 10 + x % 10;
+            x /= 10;
+        }
+        return rev;
     }
 };
