@@ -9,7 +9,6 @@ public:
             string s = to_string(i);
             reverse(s.begin(), s.end());
             int k = stoi(s);
-
             if(mp.find(k) != mp.end()){
                 auto it = upper_bound(mp[k].begin(), mp[k].end(), j);
                 if(it != mp[k].end()){
