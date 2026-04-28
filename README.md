@@ -1246,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushmaan06/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2023-design-movie-rental-system](https://github.com/Ayushmaan06/LeetHub/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-count-sub-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/Ayushmaan06/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1517,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ayushmaan06/LeetHub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Ayushmaan06/LeetHub/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ayushmaan06/LeetHub/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-count-sub-islands](https://github.com/Ayushmaan06/LeetHub/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ayushmaan06/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Ayushmaan06/LeetHub/tree/master/2145-grid-game) |
@@ -1935,6 +1937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushmaan06/LeetHub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ayushmaan06/LeetHub/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Ayushmaan06/LeetHub/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -2249,6 +2252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushmaan06/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ayushmaan06/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Ayushmaan06/LeetHub/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ayushmaan06/LeetHub/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2155-find-missing-observations](https://github.com/Ayushmaan06/LeetHub/tree/master/2155-find-missing-observations) |
