@@ -1844,6 +1844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ayushmaan06/LeetHub/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ayushmaan06/LeetHub/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Ayushmaan06/LeetHub/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0202-happy-number) |
@@ -2109,6 +2110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Ayushmaan06/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Ayushmaan06/LeetHub/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayushmaan06/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Ayushmaan06/LeetHub/tree/master/0146-lru-cache) |
