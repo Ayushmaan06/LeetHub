@@ -1232,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ayushmaan06/LeetHub/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushmaan06/LeetHub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/1752-arithmetic-subarrays) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayushmaan06/LeetHub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/Ayushmaan06/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Ayushmaan06/LeetHub/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayushmaan06/LeetHub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
