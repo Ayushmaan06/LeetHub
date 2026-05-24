@@ -1181,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ayushmaan06/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ayushmaan06/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1340-jump-game-v](https://github.com/Ayushmaan06/LeetHub/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Ayushmaan06/LeetHub/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1792,6 +1793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ayushmaan06/LeetHub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ayushmaan06/LeetHub/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/Ayushmaan06/LeetHub/tree/master/1340-jump-game-v) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Ayushmaan06/LeetHub/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ayushmaan06/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -1962,6 +1964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ayushmaan06/LeetHub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/1333-sort-the-jumbled-numbers) |
+| [1340-jump-game-v](https://github.com/Ayushmaan06/LeetHub/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ayushmaan06/LeetHub/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ayushmaan06/LeetHub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
