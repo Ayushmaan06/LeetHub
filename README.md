@@ -727,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Ayushmaan06/LeetHub/tree/master/2915-count-of-interesting-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ayushmaan06/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ayushmaan06/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3055-maximum-odd-binary-number](https://github.com/Ayushmaan06/LeetHub/tree/master/3055-maximum-odd-binary-number) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ayushmaan06/LeetHub/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
