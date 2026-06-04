@@ -1865,6 +1865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Ayushmaan06/LeetHub/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayushmaan06/LeetHub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ayushmaan06/LeetHub/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -2388,6 +2389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ayushmaan06/LeetHub/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayushmaan06/LeetHub/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -3120,6 +3122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Database
 |  |
 | ------- |
