@@ -4,12 +4,8 @@ public:
         vector<int> s,g;
         int c = 0 ;
         for(int n : nums){
-            if(n<pivot){
-                s.push_back(n);
-            }
-            else if (n>pivot){
-                g.push_back(n);
-            }
+            if(n<pivot)s.push_back(n);
+            else if (n>pivot) g.push_back(n);
             else c++;
         }
         while(c--)s.push_back(pivot);
