@@ -1490,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Ayushmaan06/LeetHub/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayushmaan06/LeetHub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3689-maximum-total-subarray-value-i) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3719-longest-balanced-subarray-i) |
@@ -2169,6 +2170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/3647-zero-array-transformation-iii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ayushmaan06/LeetHub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
