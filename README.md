@@ -1257,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Ayushmaan06/LeetHub/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1834-single-threaded-cpu](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-single-threaded-cpu) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayushmaan06/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushmaan06/LeetHub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Ayushmaan06/LeetHub/tree/master/1861-rotating-the-box) |
@@ -2019,6 +2020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Ayushmaan06/LeetHub/tree/master/1777-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ayushmaan06/LeetHub/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-single-threaded-cpu) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayushmaan06/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ayushmaan06/LeetHub/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushmaan06/LeetHub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -2139,6 +2141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ayushmaan06/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ayushmaan06/LeetHub/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ayushmaan06/LeetHub/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayushmaan06/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushmaan06/LeetHub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Ayushmaan06/LeetHub/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ayushmaan06/LeetHub/tree/master/1917-maximum-average-pass-ratio) |
