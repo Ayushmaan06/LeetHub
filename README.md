@@ -2422,6 +2422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ayushmaan06/LeetHub/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Ayushmaan06/LeetHub/tree/master/3637-count-number-of-balanced-permutations) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Ayushmaan06/LeetHub/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ayushmaan06/LeetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ayushmaan06/LeetHub/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ayushmaan06/LeetHub/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -3045,6 +3046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Ayushmaan06/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ayushmaan06/LeetHub/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Ayushmaan06/LeetHub/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ayushmaan06/LeetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Ayushmaan06/LeetHub/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Rolling Hash
