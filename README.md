@@ -1110,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ayushmaan06/LeetHub/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Ayushmaan06/LeetHub/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushmaan06/LeetHub/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Ayushmaan06/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0679-24-game) |
@@ -1985,6 +1986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Ayushmaan06/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Ayushmaan06/LeetHub/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushmaan06/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/Ayushmaan06/LeetHub/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Ayushmaan06/LeetHub/tree/master/0726-number-of-atoms) |
@@ -2321,6 +2323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ayushmaan06/LeetHub/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushmaan06/LeetHub/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ayushmaan06/LeetHub/tree/master/0592-fraction-addition-and-subtraction) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ayushmaan06/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Ayushmaan06/LeetHub/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Ayushmaan06/LeetHub/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/Ayushmaan06/LeetHub/tree/master/0679-24-game) |
