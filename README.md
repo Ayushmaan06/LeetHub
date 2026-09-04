@@ -1535,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/Ayushmaan06/LeetHub/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/Ayushmaan06/LeetHub/tree/master/3838-weighted-word-mapping) |
+| [3903-smallest-stable-index-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -2922,6 +2923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ayushmaan06/LeetHub/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3903-smallest-stable-index-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3903-smallest-stable-index-i) |
 ## Strongly Connected Component
 |  |
 | ------- |
