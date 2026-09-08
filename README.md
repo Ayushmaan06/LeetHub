@@ -2456,6 +2456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Ayushmaan06/LeetHub/tree/master/3830-find-closest-person) |
+| [3870-count-commas-in-range](https://github.com/Ayushmaan06/LeetHub/tree/master/3870-count-commas-in-range) |
 ## Counting
 |  |
 | ------- |
