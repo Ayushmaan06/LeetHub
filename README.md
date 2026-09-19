@@ -2365,6 +2365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ayushmaan06/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ayushmaan06/LeetHub/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Ayushmaan06/LeetHub/tree/master/1395-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ayushmaan06/LeetHub/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushmaan06/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ayushmaan06/LeetHub/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ayushmaan06/LeetHub/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -3255,6 +3256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-generate-random-point-in-a-circle](https://github.com/Ayushmaan06/LeetHub/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Ayushmaan06/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Ayushmaan06/LeetHub/tree/master/1395-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ayushmaan06/LeetHub/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Ayushmaan06/LeetHub/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ayushmaan06/LeetHub/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
