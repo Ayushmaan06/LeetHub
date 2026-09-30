@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1092-shortest-common-supersequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Ayushmaan06/LeetHub/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Ayushmaan06/LeetHub/tree/master/1170-shortest-common-supersequence) |
@@ -2587,6 +2588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Ayushmaan06/LeetHub/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ayushmaan06/LeetHub/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ayushmaan06/LeetHub/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -3339,4 +3341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushmaan06/LeetHub/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Ayushmaan06/LeetHub/tree/master/2573-find-the-string-with-lcp) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
