@@ -789,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ayushmaan06/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ayushmaan06/LeetHub/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ayushmaan06/LeetHub/tree/master/0049-group-anagrams) |
@@ -1772,6 +1773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Ayushmaan06/LeetHub/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0045-jump-game-ii) |
@@ -2563,6 +2565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ayushmaan06/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Ayushmaan06/LeetHub/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmaan06/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
@@ -3346,5 +3349,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
