@@ -835,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0796-rotate-string) |
 | [0807-custom-sort-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Ayushmaan06/LeetHub/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/Ayushmaan06/LeetHub/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ayushmaan06/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Ayushmaan06/LeetHub/tree/master/0926-find-and-replace-pattern) |
@@ -2587,6 +2588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushmaan06/LeetHub/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/Ayushmaan06/LeetHub/tree/master/0895-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Ayushmaan06/LeetHub/tree/master/1002-maximum-width-ramp) |
@@ -3350,5 +3352,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
