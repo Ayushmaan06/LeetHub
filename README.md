@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/Ayushmaan06/LeetHub/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ayushmaan06/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-find-and-replace-pattern](https://github.com/Ayushmaan06/LeetHub/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/Ayushmaan06/LeetHub/tree/master/0952-word-subsets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Ayushmaan06/LeetHub/tree/master/0953-verifying-an-alien-dictionary) |
@@ -2142,6 +2143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Ayushmaan06/LeetHub/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/Ayushmaan06/LeetHub/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/Ayushmaan06/LeetHub/tree/master/0891-score-after-flipping-matrix) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayushmaan06/LeetHub/tree/master/1018-largest-perimeter-triangle) |
@@ -2590,6 +2592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Ayushmaan06/LeetHub/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/Ayushmaan06/LeetHub/tree/master/0895-maximum-frequency-stack) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Ayushmaan06/LeetHub/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -3353,5 +3356,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
