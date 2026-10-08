@@ -847,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ayushmaan06/LeetHub/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0981-time-based-key-value-store](https://github.com/Ayushmaan06/LeetHub/tree/master/0981-time-based-key-value-store) |
 | [1006-vowel-spellchecker](https://github.com/Ayushmaan06/LeetHub/tree/master/1006-vowel-spellchecker) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Ayushmaan06/LeetHub/tree/master/1026-string-without-aaa-or-bbb) |
 | [1044-find-common-characters](https://github.com/Ayushmaan06/LeetHub/tree/master/1044-find-common-characters) |
 | [1048-longest-string-chain](https://github.com/Ayushmaan06/LeetHub/tree/master/1048-longest-string-chain) |
@@ -2595,6 +2596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Ayushmaan06/LeetHub/tree/master/1002-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmaan06/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ayushmaan06/LeetHub/tree/master/1197-parsing-a-boolean-expression) |
@@ -3357,5 +3359,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushmaan06/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayushmaan06/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushmaan06/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
