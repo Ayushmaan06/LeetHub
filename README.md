@@ -1436,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ayushmaan06/LeetHub/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/Ayushmaan06/LeetHub/tree/master/3093-longest-common-suffix-queries) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ayushmaan06/LeetHub/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ayushmaan06/LeetHub/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ayushmaan06/LeetHub/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
